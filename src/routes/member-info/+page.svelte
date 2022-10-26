@@ -4,6 +4,10 @@
   import killianGreens from '$lib/assets/businesses/killian-greens.jpg';
   import text from './text';
   import { getErrorMessage } from '$lib/utils';
+  import byLaws from '$lib/assets/documents/KHA_By-laws.pdf'
+  import kendaleSouthSection1 from '$lib/assets/documents/KHA_COVN_KS_Sec_1.pdf';
+  import kendaleSouthSection2Part1 from '$lib/assets/documents/KHA_COVN_KS_2_1.pdf';
+  import kendaleSouthSection2Part2 from '$lib/assets/documents/KHA_COVN_KS_2_2.pdf';
 
   let formSubmitted = false;
   let submissionError = false;
@@ -82,10 +86,10 @@
   <h2 class="page-subheading">Laws and Covenants</h2>
   <p><strong>The state of our neighborhood depends on our knowledge of our rights and our willingness as a community to defend them.</strong></p>
   <p class="laws-and-covenants">{text.lawsAndCovenants}</p>
-  <a class="document-link" href="http://99e.fd0.myftpupload.com/wp-content/uploads/2018/10/KHA_COVN_KS_Sec_1.pdf">KENDALE SOUTH SECTION I</a>
-  <a class="document-link" href="http://99e.fd0.myftpupload.com/wp-content/uploads/2018/10/KHA_COVN_KS_2_1.pdf">KENDALE SOUTH SECTION 2 PART 1</a>
-  <a class="document-link" href="http://99e.fd0.myftpupload.com/wp-content/uploads/2018/10/KHA_COVN_KS_2_2.pdf">KENDALE SOUTH SECTION 2 PART 2</a>
-  <a class="document-link" href="http://99e.fd0.myftpupload.com/wp-content/uploads/2018/10/KHA_By-laws.pdf">KENDALE HOMEOWNERS ASSOCIATION BY-LAWS</a>
+  <a class="document-link" rel="noreferrer" target="_blank" href={kendaleSouthSection1}>KENDALE SOUTH SECTION I</a>
+  <a class="document-link" rel="noreferrer" target="_blank" href={kendaleSouthSection2Part1}>KENDALE SOUTH SECTION 2 PART 1</a>
+  <a class="document-link" rel="noreferrer" target="_blank" href={kendaleSouthSection2Part2}>KENDALE SOUTH SECTION 2 PART 2</a>
+  <a class="document-link" rel="noreferrer" target="_blank" href={byLaws}>KENDALE HOMEOWNERS ASSOCIATION BY-LAWS</a>
 </section>
 
 <style>
