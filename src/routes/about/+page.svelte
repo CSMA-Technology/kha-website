@@ -31,12 +31,12 @@
     <TeamMember
       img={placeholder}
       position="President"
-      name="Nancy Lyons"
+      name="Ernie Bascuas"
     />
     <TeamMember
       img={placeholder}
       position="Vice President"
-      name="Robert Ellioraga"
+      name="Zuriel Carbo"
     />
     <TeamMember
       img={placeholder}
@@ -50,38 +50,8 @@
     />
     <TeamMember
       img={placeholder}
-      position="Public Safety"
-      name="Richard Praschnik"
-    />
-    <TeamMember
-      img={placeholder}
-      position="Event Coordinator"
-      name="Ann Lyons"
-    />
-    <TeamMember
-      img={placeholder}
-      position="Social Media"
-      name="Alana Sullivan"
-    />
-    <TeamMember
-      img={placeholder}
-      position="Grounds"
-      name="Steven Jaramillo"
-    />
-    <TeamMember
-      img={placeholder}
-      position="Recording Secretary"
-      name="Vacant"
-    />
-    <TeamMember
-      img={placeholder}
-      position="Zoning and Covenants"
-      name="Vacant"
-    />
-    <TeamMember
-      img={placeholder}
-      position="Membership"
-      name="Vacant"
+      position="Past President"
+      name="Nancy Lyons"
     />
   </div>
   <h2 class="page-subheading">We need your help!</h2>
