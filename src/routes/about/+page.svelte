@@ -7,10 +7,11 @@
   import TeamMember from '$lib/components/TeamMember.svelte';
   import Instafeed  from 'instafeed.js';
   import { onMount } from 'svelte';
+  import { env } from '$env/dynamic/private';
 
   onMount(() => {
     var feed = new Instafeed({
-      accessToken: 'IGQVJWRmZAPYkhXNVFLTXRya090TXdCeXFIOGJpYVc5UVYxLWZA1TUFOaEJRQWltZAlp2RGlGRzc2T1Eya3A5TkNDNzdUd3pJOEZAoRnU5VDBBUTg4YkxtdzZA5ZADl3REQ4VmdUTmNicXhtc3hWZAWtSZAkF3awZDZD',
+      accessToken: env.INSTAGRAM_TOKEN,
       limit: 3,
       template: '<div class="post"><a href="{{link}}"><img title="{{caption}}" src="{{image}}" width="200" /></a></div>'
     });
