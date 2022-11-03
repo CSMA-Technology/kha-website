@@ -9,8 +9,6 @@
   import type { PageServerData } from './$types';
   
   export let data: PageServerData;
-  console.log('in page');
-  console.log(data.feed);
   onMount(() => {
     data.feed.run();
   });

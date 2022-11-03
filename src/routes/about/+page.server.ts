@@ -1,6 +1,7 @@
 import { INSTAGRAM_TOKEN } from '$env/static/private';
 import type { PageServerLoad } from './$types';
 import Instafeed from 'instafeed.js';
+import { onMount } from 'svelte';
 
 export const load: PageServerLoad = () => {
   var feed = getInstafeed();
