@@ -5,17 +5,14 @@
 <script lang="ts">
   import placeholder from '$lib/assets/avatars/avatar-placeholder.png';
   import TeamMember from '$lib/components/TeamMember.svelte';
-  import Instafeed  from 'instafeed.js';
   import { onMount } from 'svelte';
-  import { env } from '$env/dynamic/private';
-
+  import type { PageServerData } from './$types';
+  
+  export let data: PageServerData;
+  console.log('in page');
+  console.log(data.feed);
   onMount(() => {
-    var feed = new Instafeed({
-      accessToken: env.INSTAGRAM_TOKEN,
-      limit: 3,
-      template: '<div class="post"><a href="{{link}}"><img title="{{caption}}" src="{{image}}" width="200" /></a></div>'
-    });
-    feed.run();
+    data.feed.run();
   });
 </script>
 
