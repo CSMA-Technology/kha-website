@@ -55,7 +55,7 @@
     <h2 class="page-subheading">We need your help!</h2>
     <p>There are many positions open! If you wish to volunteer, send us a message from the <a href="/contact">contact</a> page.</p>
   </section>
-  <section class="container">
+  <section class="instagram">
     {#each data.posts as post}
       {#if post.media_type=="VIDEO"} 
         <InstagramPost
@@ -92,5 +92,10 @@
   .content {
     margin: 0px 20px 20px 0px;
     text-align: left;
+  }
+
+  .instagram {
+    display: flex;
+    flex-direction: column;
   }
 </style>
