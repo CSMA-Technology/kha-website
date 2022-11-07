@@ -5,17 +5,13 @@
 <script lang="ts">
   import placeholder from '$lib/assets/avatars/avatar-placeholder.png';
   import TeamMember from '$lib/components/TeamMember.svelte';
+  import InstagramPost from '$lib/components/InstagramPost.svelte';
   import type { PageServerData } from './$types';
   
   export let data: PageServerData;
-  let postData = [{}];
-  if (data) {
-    let postData = data;
-  }
 </script>
 
 <h1 class="page-heading">About</h1>
-
 <section class="container">
   <section class="content">
     <h2 class="page-subheading">Our Mission</h2>
@@ -60,7 +56,23 @@
     <p>There are many positions open! If you wish to volunteer, send us a message from the <a href="/contact">contact</a> page.</p>
   </section>
   <section class="container">
-    <p>{postData[0].caption}</p>
+    {#each data.posts as post}
+      {#if post.media_type=="VIDEO"} 
+        <InstagramPost
+          username={post.username}
+          caption={post.caption}
+          imgUrl={post.thumbnail_url}
+          permalink={post.permalink}
+        />
+      {:else}
+        <InstagramPost
+          username={post.username}
+          caption={post.caption}
+          imgUrl={post.media_url}
+          permalink={post.permalink}
+        />
+      {/if}
+    {/each}
   </section>
 </section>
 
