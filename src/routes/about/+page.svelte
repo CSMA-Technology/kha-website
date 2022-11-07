@@ -5,13 +5,13 @@
 <script lang="ts">
   import placeholder from '$lib/assets/avatars/avatar-placeholder.png';
   import TeamMember from '$lib/components/TeamMember.svelte';
-  import { onMount } from 'svelte';
   import type { PageServerData } from './$types';
   
   export let data: PageServerData;
-  onMount(() => {
-    data.feed.run();
-  });
+  let postData = [{}];
+  if (data) {
+    let postData = data;
+  }
 </script>
 
 <h1 class="page-heading">About</h1>
@@ -59,7 +59,9 @@
     <h2 class="page-subheading">We need your help!</h2>
     <p>There are many positions open! If you wish to volunteer, send us a message from the <a href="/contact">contact</a> page.</p>
   </section>
-  <div id="instafeed" class="instagram"></div>
+  <section class="container">
+    <p>{postData[0].caption}</p>
+  </section>
 </section>
 
 <style> 
@@ -73,18 +75,6 @@
     display: flex; 
     flex-flow: row wrap;
     justify-content: space-between;
-  }
-
-  .instagram {
-    margin: 20px;
-    display: flex;
-    flex-flow: row wrap;
-    font-size: 0.7rem;
-  }
-
-  .post {
-    display: flex;
-    flex-direction: column;
   }
 
   .content {
