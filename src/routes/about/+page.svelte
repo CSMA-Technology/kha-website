@@ -5,10 +5,13 @@
 <script lang="ts">
   import placeholder from '$lib/assets/avatars/avatar-placeholder.png';
   import TeamMember from '$lib/components/TeamMember.svelte';
-  import InstagramPost from '$lib/components/InstagramPost.svelte';
+  import khaLogo from '$lib/assets/kha-logo.gif';
   import type { PageServerData } from './$types';
+  import { Carousel, CarouselControl, CarouselItem, CarouselCaption } from 'sveltestrap';
   
   export let data: PageServerData;
+  let items = data.posts;
+  let activeIndex = 0;
 </script>
 
 <h1 class="page-heading">About</h1>
@@ -56,28 +59,35 @@
     <p>There are many positions open! If you wish to volunteer, send us a message from the <a href="/contact">contact</a> page.</p>
   </section>
   <section class="instagram">
-    {#each data.posts as post}
-      {#if post.media_type=="VIDEO"} 
-        <InstagramPost
-          username={post.username}
-          caption={post.caption}
-          imgUrl={post.thumbnail_url}
-          permalink={post.permalink}
-        />
-      {:else}
-        <InstagramPost
-          username={post.username}
-          caption={post.caption}
-          imgUrl={post.media_url}
-          permalink={post.permalink}
-        />
-      {/if}
-    {/each}
+    <h2 class="page-subheading">Follow us on Instagram!</h2>
+    <div class="username">
+      <img alt="kha instagram profile" class="avatar" src={khaLogo} />
+      <p>{items[0].username}</p>
+    </div>
+    <Carousel {items} bind:activeIndex>
+      <div class="carousel-inner">
+        {#each items as item, index}
+          <CarouselItem bind:activeIndex itemIndex={index}>
+            <a href={item.permalink} target="_blank" rel="noreferrer">
+              {#if item.media_type=="VIDEO"}
+                <img src={item.thumbnail_url} alt="instagram post" class="d-block w-100" />
+              {:else}
+                <img src={item.media_url} alt="instagram post" class="d-block w-100" />
+              {/if}
+            </a>
+          </CarouselItem>
+        {/each}
+      </div>
+      <CarouselControl direction="prev" bind:activeIndex {items} />
+      <CarouselControl direction="next" bind:activeIndex {items} />
+    </Carousel>
+    <p class="caption">{items[activeIndex].caption}</p>
   </section>
 </section>
 
 <style> 
   .container {
+    max-width: 70%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -95,12 +105,52 @@
   }
 
   .instagram {
-    margin: 30px;
+    margin: 0px 20px 20px 0px;
+    height: 300px;
+    max-width: 300px;
+  }
+
+  .carousel-inner {
+    height: 300px;
+    width: 300px;
+    background-color: black;
     display: flex;
-    flex-direction: column;
     align-items: center;
-    width: 100%;
-    max-height: 750px;
-    overflow: scroll;
+  }
+
+  .username {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    margin-bottom: 0px;
+    color: black; 
+    padding: 5px;
+    border-radius: 10px 10px 0px 0px;
+  }
+
+  .username p {
+    margin: 0px 5px;
+    font-weight: 600;
+  }
+
+  .avatar {
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+  }
+
+  .caption {
+    margin-top: 0px;
+    background-color: white;
+    color: black;
+    font-size: 0.8rem;
+    border-radius: 0px 0px 10px 10px;
+    padding: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align: left;
   }
 </style>
