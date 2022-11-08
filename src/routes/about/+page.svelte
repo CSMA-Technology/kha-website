@@ -95,7 +95,12 @@
   }
 
   .instagram {
+    margin: 30px;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-height: 750px;
+    overflow: scroll;
   }
 </style>

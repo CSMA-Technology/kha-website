@@ -37,5 +37,8 @@
     font-size: 0.8rem;
     border-radius: 0px 0px 10px 10px;
     padding: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
   }
 </style>
