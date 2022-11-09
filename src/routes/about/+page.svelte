@@ -96,7 +96,7 @@
 
 <style> 
   .container {
-    max-width: 60%;
+    max-width: 75%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
