@@ -26,7 +26,7 @@
 </head>
 
 <h1 class="page-heading">Member Info</h1>
-<!-- <section class="container">
+<section class="container">
   <h2 class="page-subheading">KHA Newsletter</h2>
   <p class="newsletter-text">
     Our quarterly community newsletter keeps KHA members informed on local events, introduces them to their neighbors, and offers exclusive discounts to local businesses!
@@ -50,8 +50,8 @@
       <button class="primary-button">Submit</button>
     </form>
   </FormContainer>
-</section> -->
-<!-- <section class="container">
+</section>
+<section class="container">
   <h2 class="page-subheading">Member Discounts</h2>
   <p>Stop into any of the below businesses and show proof of your KHA membership for an exclusive discount!</p>
   <div class="discounts">
@@ -68,7 +68,7 @@
       <p class="business-name">Body and Brain</p>
     </div>
   </div>
-</section> -->
+</section>
 <section class="container">
   <h2 class="page-subheading">Laws and Covenants</h2>
   <p><strong>The state of our neighborhood depends on our knowledge of our rights and our willingness as a community to defend them.</strong></p>
@@ -80,7 +80,7 @@
 </section>
 
 <style>
-  /* .newsletter-text {
+  .newsletter-text {
     line-height: 1.5rem;
   }
   .newsletter-form {
@@ -102,13 +102,11 @@
 
   .newsletter-form button {
     margin: 1rem auto;
-  } */
+  }
   .discounts {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    flex-wrap: wrap;
-    /* margin-bottom: 1.5rem; */
   }
   .business-image {
     width: 150px;
@@ -121,7 +119,6 @@
     font-weight: 700;
     font-size: 1.2rem;
     margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
   }
   .laws-and-covenants {
     text-align: justify;

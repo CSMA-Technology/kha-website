@@ -1,3 +1,7 @@
+<head>
+  <title>About - KHA</title>
+</head>
+
 <script lang="ts">
   import placeholder from '$lib/assets/avatars/avatar-placeholder.png';
   import TeamMember from '$lib/components/TeamMember.svelte';
@@ -9,10 +13,6 @@
   let items = data.posts;
   let activeIndex = 0;
 </script>
-
-<head>
-  <title>About - KHA</title>
-</head>
 
 <h1 class="page-heading">About KHA</h1>
 <section class="container">
@@ -48,11 +48,6 @@
         img={placeholder}
         position="Corresponding Secretary"
         name="Patty Gonzalez"
-      />
-      <TeamMember
-        img={placeholder}
-        position="Corresponding Secretary"
-        name="Monica Scudieri"
       />
       <TeamMember
         img={placeholder}
@@ -189,9 +184,5 @@
 
   .post {
     margin: 20px 0px;
-  }
-  .break {
-    flex-basis: 100%;
-    height: 0;
   }
 </style>
