@@ -120,17 +120,19 @@
   }
 
   .carousel-control-left {
+    transform: scale(90%);
     filter: invert(100%);
     position: relative;
     bottom: 135px;
-    right: 8px;
+    right: 20px;
   }
 
   .carousel-control-right {
+    transform: scale(90%);
     filter: invert(100%);
     position: relative;
     bottom: 135px;
-    left: 8px;
+    left: 20px;
   }
 
   .carousel-inner {
