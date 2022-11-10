@@ -10,6 +10,7 @@
   import { Carousel, CarouselControl, CarouselItem } from 'sveltestrap';
   
   export let data: PageServerData;
+  const interval = "5000";
   let items = data.posts;
   let activeIndex = 0;
 </script>
@@ -63,13 +64,14 @@
   </section>
   <section class="instagram">
     <h2 class="page-subheading">Follow us on Instagram!</h2>
+    <a href="https://www.instagram.com/kendale_hoa" target="_blank" rel="noreferrer"><p>@kendale_hoa</p></a>
     <p>Stay up to date on all of the events around our beautiful community.</p>
     <div class="post">
       <div class="username">
         <img alt="kha instagram profile" class="avatar" src={khaLogo} />
         <p>{items[0].username}</p>
       </div>
-      <Carousel {items} bind:activeIndex>
+      <Carousel {items} bind:activeIndex interval={interval}>
         <div class="carousel-inner">
           {#each items as item, index}
             <CarouselItem bind:activeIndex itemIndex={index}>
@@ -141,7 +143,7 @@
   }
 
   .carousel-inner {
-    height: 270px;
+    height: 300px;
     width: 300px;
     background-color: white;
     display: flex;
