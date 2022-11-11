@@ -106,7 +106,7 @@
 
 <style> 
   .layout {
-    max-width: 75%;
+    max-width: 80%;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
