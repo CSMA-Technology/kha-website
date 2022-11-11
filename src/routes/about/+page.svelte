@@ -11,6 +11,7 @@
   
   export let data: PageServerData;
   const interval = "5000";
+  const instagramUrl = "https://www.instagram.com/kendale_hoa";
   let items = data.posts;
   let activeIndex = 0;
 </script>
@@ -64,7 +65,7 @@
   </section>
   <section class="instagram">
     <h2 class="page-subheading">Follow us on Instagram!</h2>
-    <a href="https://www.instagram.com/kendale_hoa" target="_blank" rel="noreferrer"><p>@kendale_hoa</p></a>
+    <a href={instagramUrl} target="_blank" rel="noreferrer"><p>@kendale_hoa</p></a>
     <p>Stay up to date on all of the events around our beautiful community.</p>
     <div class="post">
       <div class="username">
@@ -85,11 +86,13 @@
             </CarouselItem>
           {/each}
         </div>
-        <div class="carousel-control-left">
-          <CarouselControl direction="prev" bind:activeIndex {items} />
-        </div>
-        <div class="carousel-control-right">
-          <CarouselControl direction="next" bind:activeIndex {items}  />
+        <div class="carousel-controls">
+          <div class="carousel-control-left">
+            <CarouselControl direction="prev" bind:activeIndex {items} />
+          </div>
+          <div class="carousel-control-right">
+            <CarouselControl direction="next" bind:activeIndex {items}  />
+          </div>
         </div>
       </Carousel>
       <p class="caption">{items[activeIndex].caption}</p>
@@ -128,19 +131,20 @@
     max-width: 300px;
   }
 
-  .carousel-control-left {
+  .carousel-controls {
     transform: scale(90%);
     filter: invert(100%);
     position: relative;
     bottom: 135px;
+  }
+
+  .carousel-control-left {
+    position: relative;
     right: 20px;
   }
 
   .carousel-control-right {
-    transform: scale(90%);
-    filter: invert(100%);
     position: relative;
-    bottom: 135px;
     left: 20px;
   }
 
@@ -160,7 +164,6 @@
     margin-bottom: 0px;
     color: black; 
     padding: 5px;
-    border-radius: 10px 10px 0px 0px;
     padding: 10px 30px 0px;
   }
 
@@ -182,7 +185,6 @@
     background-color: white;
     color: black;
     font-size: 0.8rem;
-    border-radius: 0px 0px 10px 10px;
     padding: 10px;
     text-overflow: ellipsis;
     white-space: nowrap;
@@ -193,5 +195,6 @@
 
   .post {
     margin: 20px 0px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   }
 </style>
