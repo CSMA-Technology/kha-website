@@ -109,7 +109,7 @@
     max-width: 75%;
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: center;
     margin-left: auto;
     margin-right: auto;
   }
@@ -123,7 +123,8 @@
   .content {
     margin: 0.5rem;
     text-align: left;
-    width: 75%;
+    width: 70%;
+    padding: 0px 20px;
   }
 
   .instagram {
