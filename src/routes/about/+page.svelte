@@ -65,8 +65,8 @@
   </section>
   <section class="instagram">
     <h2 class="page-subheading">Follow us on Instagram!</h2>
-    <a href={instagramUrl} target="_blank" rel="noreferrer"><p>@kendale_hoa</p></a>
-    <p>Stay up to date on all of the events around our beautiful community.</p>
+      <a href={instagramUrl} target="_blank" rel="noreferrer"><p>@kendale_hoa</p></a>
+      <p>Stay up to date on all of the events around our beautiful community.</p>
     <div class="post">
       <div class="username">
         <img alt="kha instagram profile" class="avatar" src={khaLogo} />
@@ -108,7 +108,7 @@
   .layout {
     max-width: 75%;
     display: flex;
-    flex-direction: row;
+    flex-flow: row wrap;
     justify-content: space-between;
     margin-left: auto;
     margin-right: auto;
@@ -121,36 +121,38 @@
   }
 
   .content {
-    margin: 20px;
+    margin: 0.5rem;
     text-align: left;
+    width: 75%;
   }
 
   .instagram {
-    margin: 20px;
-    height: 300px;
-    max-width: 300px;
+    margin: 0.5rem;
+    width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .carousel-controls {
     transform: scale(90%);
     filter: invert(100%);
     position: relative;
-    bottom: 135px;
+    bottom: 10rem;
   }
 
   .carousel-control-left {
     position: relative;
-    right: 20px;
+    right: 1.5rem;
   }
 
   .carousel-control-right {
     position: relative;
-    left: 20px;
+    left: 1.5rem;
   }
 
   .carousel-inner {
-    height: 300px;
-    width: 300px;
+    width: 20rem;
+    height: 20rem;
     background-color: white;
     display: flex;
     align-items: center;
@@ -173,8 +175,8 @@
   }
 
   .avatar {
-    width: 25px;
-    height: 25px;
+    width: 1rem;
+    height: 1rem;
     border-radius: 100%;
     -o-object-fit: contain;
     object-fit: contain;
