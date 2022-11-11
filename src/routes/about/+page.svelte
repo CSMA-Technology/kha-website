@@ -16,7 +16,7 @@
 </script>
 
 <h1 class="page-heading">About KHA</h1>
-<section class="container">
+<section class="layout">
   <section class="content">
     <h2 class="page-subheading">Our Mission</h2>
     <p>
@@ -102,11 +102,13 @@
 </section>
 
 <style> 
-  .container {
+  .layout {
     max-width: 75%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .team {
