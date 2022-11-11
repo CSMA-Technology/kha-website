@@ -112,6 +112,13 @@
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
+    flex-wrap: wrap;
+  }
+
+  @media (max-width: 480px) {
+    .layout {
+      max-width: 100%;
+    }
   }
   
   .team {
@@ -122,16 +129,14 @@
 
   .content {
     margin: 0.5rem;
+    max-width: 50rem;
     text-align: left;
     width: 70%;
     padding: 0px 20px;
   }
 
   .instagram {
-    margin: 0.5rem;
-    width: 20rem;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 20px auto;
   }
 
   .carousel-controls {
@@ -152,7 +157,6 @@
   }
 
   .carousel-inner {
-    width: 20rem;
     height: 20rem;
     background-color: white;
     display: flex;
@@ -188,16 +192,17 @@
     background-color: white;
     color: black;
     font-size: 0.8rem;
-    padding: 10px;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
     text-align: left;
-    padding: 0px 30px 15px;
+    padding: 10px 30px 10px;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow: hidden;
+    min-height: 5em;
+    line-height: 1.2em;
   }
 
   .post {
-    margin: 20px 0px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 20px auto;
+    max-width: 300px;
   }
 </style>
