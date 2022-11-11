@@ -5,15 +5,15 @@
 <script lang="ts">
   import placeholder from '$lib/assets/avatars/avatar-placeholder.png';
   import TeamMember from '$lib/components/TeamMember.svelte';
-  import khaLogo from '$lib/assets/kha-logo.gif';
-  import type { PageServerData } from './$types';
-  import { Carousel, CarouselControl, CarouselItem } from 'sveltestrap';
+  import InstagramPreview, { type Post } from '$lib/components/InstagramPreview.svelte';
+  import { onMount } from 'svelte';
   
-  export let data: PageServerData;
-  const interval = "5000";
   const instagramUrl = "https://www.instagram.com/kendale_hoa";
-  let items = data.posts;
-  let activeIndex = 0;
+  let items:Post[];
+  onMount(async () => {
+    const res = await fetch('/about/instagramData');
+    items = await res.json();
+  })
 </script>
 
 <h1 class="page-heading">About KHA</h1>
@@ -67,36 +67,7 @@
     <h2 class="page-subheading">Follow us on Instagram!</h2>
       <a href={instagramUrl} target="_blank" rel="noreferrer"><p>@kendale_hoa</p></a>
       <p>Stay up to date on all of the events around our beautiful community.</p>
-    <div class="post">
-      <div class="username">
-        <img alt="kha instagram profile" class="avatar" src={khaLogo} />
-        <p>{items[0].username}</p>
-      </div>
-      <Carousel {items} bind:activeIndex interval={interval}>
-        <div class="carousel-inner">
-          {#each items as item, index}
-            <CarouselItem bind:activeIndex itemIndex={index}>
-              <a href={item.permalink} target="_blank" rel="noreferrer">
-                {#if item.media_type=="VIDEO"}
-                  <img src={item.thumbnail_url} alt="instagram post" class="d-block w-100" />
-                {:else}
-                  <img src={item.media_url} alt="instagram post" class="d-block w-100" />
-                {/if}
-              </a>
-            </CarouselItem>
-          {/each}
-        </div>
-        <div class="carousel-controls">
-          <div class="carousel-control-left">
-            <CarouselControl direction="prev" bind:activeIndex {items} />
-          </div>
-          <div class="carousel-control-right">
-            <CarouselControl direction="next" bind:activeIndex {items}  />
-          </div>
-        </div>
-      </Carousel>
-      <p class="caption">{items[activeIndex].caption}</p>
-    </div>
+    <InstagramPreview {items}/>
   </section>
 </section>
 <section class="volunteer">
@@ -137,72 +108,5 @@
 
   .instagram {
     margin: 20px auto;
-  }
-
-  .carousel-controls {
-    transform: scale(90%);
-    filter: invert(100%);
-    position: relative;
-    bottom: 10rem;
-  }
-
-  .carousel-control-left {
-    position: relative;
-    right: 1.5rem;
-  }
-
-  .carousel-control-right {
-    position: relative;
-    left: 1.5rem;
-  }
-
-  .carousel-inner {
-    height: 20rem;
-    background-color: white;
-    display: flex;
-    align-items: center;
-    padding: 0px 30px;
-  }
-
-  .username {
-    display: flex;
-    align-items: center;
-    background-color: white;
-    margin-bottom: 0px;
-    color: black; 
-    padding: 5px;
-    padding: 10px 30px 0px;
-  }
-
-  .username p {
-    margin: 0px 5px;
-    font-weight: 600;
-  }
-
-  .avatar {
-    width: 1rem;
-    height: 1rem;
-    border-radius: 100%;
-    -o-object-fit: contain;
-    object-fit: contain;
-  }
-
-  .caption {
-    margin-top: 0px;
-    background-color: white;
-    color: black;
-    font-size: 0.8rem;
-    text-align: left;
-    padding: 10px 30px 10px;
-    text-overflow: ellipsis;
-    word-wrap: break-word;
-    overflow: hidden;
-    min-height: 5em;
-    line-height: 1.2em;
-  }
-
-  .post {
-    margin: 20px auto;
-    max-width: 300px;
   }
 </style>

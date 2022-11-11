@@ -12,41 +12,45 @@
 <script lang="ts">
   import khaLogo from '$lib/assets/kha-logo.gif';
   import { Carousel, CarouselControl, CarouselItem } from 'sveltestrap';
-
+  import { Circle } from 'svelte-loading-spinners';
   const interval = "5000";
-  export let items: Post[];
+  export let items: Post[] | undefined;
   let activeIndex = 0;
 </script>
 
 <div class="post">
-  <div class="username">
-    <img alt="kha instagram profile" class="avatar" src={khaLogo} />
-    <p>{items[0].username}</p>
-  </div>
-  <Carousel {items} bind:activeIndex interval={interval}>
-    <div class="carousel-inner">
-      {#each items as item, index}
-        <CarouselItem bind:activeIndex itemIndex={index}>
-          <a href={item.permalink} target="_blank" rel="noreferrer">
-            {#if item.media_type=="VIDEO"}
-              <img src={item.thumbnail_url} alt="instagram post" class="d-block w-100" />
-            {:else}
-              <img src={item.media_url} alt="instagram post" class="d-block w-100" />
-            {/if}
-          </a>
-        </CarouselItem>
-      {/each}
+  {#if !items}
+    <div class="loading-placeholder"><Circle /></div>
+  {:else}
+    <div class="username">
+      <img alt="kha instagram profile" class="avatar" src={khaLogo} />
+      <p>{items[0].username}</p>
     </div>
-    <div class="carousel-controls">
-      <div class="carousel-control-left">
-        <CarouselControl direction="prev" bind:activeIndex {items} />
+    <Carousel {items} bind:activeIndex interval={interval}>
+      <div class="carousel-inner">
+        {#each items as item, index}
+          <CarouselItem bind:activeIndex itemIndex={index}>
+            <a href={item.permalink} target="_blank" rel="noreferrer">
+              {#if item.media_type=="VIDEO"}
+                <img src={item.thumbnail_url} alt="instagram post" class="d-block w-100" />
+              {:else}
+                <img src={item.media_url} alt="instagram post" class="d-block w-100" />
+              {/if}
+            </a>
+          </CarouselItem>
+        {/each}
       </div>
-      <div class="carousel-control-right">
-        <CarouselControl direction="next" bind:activeIndex {items}  />
+      <div class="carousel-controls">
+        <div class="carousel-control-left">
+          <CarouselControl direction="prev" bind:activeIndex {items} />
+        </div>
+        <div class="carousel-control-right">
+          <CarouselControl direction="next" bind:activeIndex {items}  />
+        </div>
       </div>
-    </div>
-  </Carousel>
-  <p class="caption">{items[activeIndex].caption}</p>
+    </Carousel>
+    <p class="caption">{items[activeIndex].caption}</p>
+  {/if}
 </div>
 
 <style>
@@ -115,5 +119,12 @@
   .post {
     margin: 20px auto;
     max-width: 300px;
+  }
+
+  .loading-placeholder {
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 </style>
