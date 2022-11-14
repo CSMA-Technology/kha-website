@@ -1,6 +1,17 @@
 <script lang="ts">
   import FormContainer from "$lib/components/FormContainer.svelte";
   import { submitFormToNetlify } from "$lib/utils";
+  import InstagramPreview, {
+    type Post,
+  } from "$lib/components/InstagramPreview.svelte";
+  import { onMount } from "svelte";
+
+  const instagramUrl = "https://www.instagram.com/kendale_hoa";
+  let items: Post[];
+  onMount(async () => {
+    const res = await fetch("/stay-connected/instagramData");
+    items = await res.json();
+  });
 
   let formStatus: FormStatus = "active";
 
@@ -15,12 +26,13 @@
 </script>
 
 <head>
-  <title>Contact - KHA</title>
+  <title>Stay Connected - KHA</title>
 </head>
 
-<h1 class="page-heading">Contact KHA</h1>
-<section class="container">
-  <h2 class="page-subheading">Send Us an Email</h2>
+<h1 class="page-heading">Connect with Us</h1>
+<section class="container flex">
+  <section class="container-item">
+    <h2 class="page-subheading">Send Us an Email</h2>
   <p>
     We'd love to hear from you! Use the below form to send us a message, and
     someone from the board will get back to you shortly.
@@ -65,6 +77,13 @@
       </div>
     </form>
   </FormContainer>
+  </section>
+  <section class="container-item instagram">
+    <h2 class="page-subheading">Follow us on Instagram!</h2>
+    <!-- <a href={instagramUrl} target="_blank" rel="noreferrer"><p>@kendale_hoa</p></a> -->
+    <p class="instagram-subtitle">Stay up to date on all of the events around our beautiful community.</p>
+    <InstagramPreview {items} />
+  </section>
 </section>
 
 <style>
@@ -77,5 +96,13 @@
   }
   form button {
     margin: 1rem;
+  }
+  .container-item.instagram {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .instagram-subtitle {
+    max-width: 60%;
   }
 </style>
