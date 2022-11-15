@@ -52,7 +52,7 @@
   <h2 class="page-subheading">We need your help!</h2>
   <p>
     There are many positions open! If you wish to volunteer, send us a message
-    from the <a href="/contact">contact</a> page.
+    from the <a href="/stay-connected">contact</a> form.
   </p>
 </section>
 
