@@ -6,7 +6,6 @@
   } from "$lib/components/InstagramPreview.svelte";
   import { onMount } from "svelte";
 
-  const instagramUrl = "https://www.instagram.com/kendale_hoa";
   let items: Post[];
   onMount(async () => {
     const res = await fetch("/stay-connected/instagramData");
@@ -80,7 +79,7 @@
   </section>
   <section class="container-item instagram">
     <h2 class="page-subheading">Follow us on Instagram!</h2>
-    <!-- <a href={instagramUrl} target="_blank" rel="noreferrer"><p>@kendale_hoa</p></a> -->
+    <!-- <p>@kendale_hoa</p></a> -->
     <p class="instagram-subtitle">Stay up to date on all of the events around our beautiful community.</p>
     <InstagramPreview {items} />
   </section>
@@ -101,8 +100,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    flex-basis: 400px;
   }
   .instagram-subtitle {
-    max-width: 60%;
+    max-width: 70%;
+    margin: auto;
   }
 </style>
