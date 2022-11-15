@@ -21,10 +21,10 @@
   let activeIndex = 0;
 </script>
 
-<div class="post">
-  {#if !items}
-    <div class="loading-placeholder"><Circle /></div>
-  {:else}
+{#if !items}
+  <div class="loading-placeholder"><Circle /></div>
+{:else}
+  <div class="post">
     <div class="username">
       <img alt="kha instagram profile" class="avatar" src={khaLogo} />
       <a href={instagramUrl} target="_blank" rel="noreferrer">
@@ -61,8 +61,8 @@
       </div>
     </Carousel>
     <p class="caption">{items[activeIndex].caption}</p>
-  {/if}
-</div>
+  </div>
+{/if}
 
 <style>
   .carousel-controls {
