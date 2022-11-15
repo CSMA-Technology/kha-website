@@ -126,7 +126,7 @@
     text-overflow: ellipsis;
     word-wrap: break-word;
     overflow: hidden;
-    min-height: 5em;
+    min-height: 5.2em;
     line-height: 1.2em;
   }
 
