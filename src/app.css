@@ -27,14 +27,14 @@ ul {
   margin-right: auto;
 }
 
-.container.flex {
-  max-width: 90%;
+.flex-row {
+  max-width: 100%;
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
 }
 
-.container-item {
+.flex-item {
   margin: 0px 10px;
   max-width: 70%;
 }
