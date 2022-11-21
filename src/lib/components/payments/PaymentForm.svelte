@@ -34,7 +34,7 @@
   };
 
   $: peopleInfo = people
-    .map(({ email, name, phone }) => `${name} (${email},${phone})`)
+    .map(({ email, name, phone }) => `${name} (${email}, ${phone})`)
     .join("\n");
 </script>
 
@@ -112,7 +112,7 @@
       </label>
       <label>
         <input type="radio" bind:group={paymentChoice} value="donation" />
-        Donation Only
+        Additional Contribution Only
       </label>
     </fieldset>
   </div>
@@ -131,7 +131,8 @@
     </div>
   {/if}
   <div class="form-row">
-    <label class="form-inline-label" for="donationInput">Donation:</label>
+    <label class="form-inline-label" for="donationInput"
+      >Additional Contribution:</label>
     <span class="form-currency-container">
       <input
         name="Donation"
