@@ -13,7 +13,7 @@
 </script>
 
 <script lang="ts">
-  import khaLogo from "$lib/assets/kha-logo.gif";
+  import khaLogo from "$lib/assets/legacy-kha-logo.gif";
   import { Carousel, CarouselControl, CarouselItem } from "sveltestrap";
   import { Circle } from "svelte-loading-spinners";
   const interval = "5000";
