@@ -1,7 +1,7 @@
 <script lang="ts">
   import khaLogo from "$lib/assets/logo-long.png";
-  import houseLogo from "$lib/assets/logo-no-text.png";
-  import logoText from "$lib/assets/logo-text.png";
+  import houseLogo from "$lib/assets/logo-no-text.svg";
+  import logoText from "$lib/assets/logo-text.svg";
   import { slide } from "svelte/transition";
   import { linear } from "svelte/easing";
   import { onMount } from "svelte";
