@@ -161,6 +161,7 @@
   .hamburger-button {
     display: none;
     border: none;
+    color: black;
   }
 
   @media (max-width: 640px) {
