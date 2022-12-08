@@ -1,5 +1,7 @@
 <script lang="ts">
-  import khaLogo from "$lib/assets/kha-logo.gif";
+  import khaLogo from "$lib/assets/logo-long.png";
+  import houseLogo from "$lib/assets/logo-no-text.png";
+  import logoText from "$lib/assets/logo-text.png";
   import { slide } from "svelte/transition";
   import { linear } from "svelte/easing";
   import { onMount } from "svelte";
@@ -11,7 +13,7 @@
 
   let bannerAlertsDismissed: Set<string>;
   let showBanner = false;
-  const bannerText = `We rely on your support! To pay your dues, click <a href="/pay-dues">here.</a>`;
+  const bannerText = `We rely on your support! The deadling for 2023 dues is February 15th. To pay your dues, click <a href="/pay-dues">here.</a>`;
   onMount(() => {
     bannerAlertsDismissed = new Set(
       JSON.parse(localStorage.getItem("bannerAlertsDismissed") || "[]")
@@ -32,7 +34,8 @@
 <div>
   <nav class="app-bar">
     <a class="branding" href="/">
-      <img id="csmaLogo" src={khaLogo} alt="The CSMA logo" />
+      <img id="khaLogo" src={houseLogo} alt="The KHA logo" />
+      <img id="khaLogo" src={logoText} alt="The KHA logo text" />
     </a>
     <ul
       on:click={toggleMenu}
@@ -123,15 +126,13 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    margin-left: 7%;
+    margin-left: 5%;
     text-align: center;
-    gap: 0.75rem;
     max-width: 156px;
   }
 
-  #csmaLogo {
-    height: 60%;
-    margin-top: -4px;
+  #khaLogo {
+    height: 75%;
   }
 
   .nav-links {

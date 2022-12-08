@@ -209,7 +209,11 @@ button {
 }
 
 .hidden {
-  visibility: none !important;
+  visibility: hidden !important;
+}
+
+.display-none {
+  display: none !important;
 }
 
 .card {
