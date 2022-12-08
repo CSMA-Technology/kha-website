@@ -1,5 +1,4 @@
 <script lang="ts">
-  import khaLogo from "$lib/assets/logo-long.png";
   import houseLogo from "$lib/assets/logo-christmas.svg";
   import logoText from "$lib/assets/logo-text.svg";
   import { slide } from "svelte/transition";
@@ -35,7 +34,7 @@
   <nav class="app-bar">
     <a class="branding" href="/">
       <img id="khaLogo" src={houseLogo} alt="The KHA logo" />
-      <img id="khaLogo" src={logoText} alt="The KHA logo text" />
+      <img id="khaLogo-text" src={logoText} alt="The KHA logo text" />
     </a>
     <ul
       on:click={toggleMenu}
@@ -128,11 +127,16 @@
     align-items: center;
     margin-left: 5%;
     text-align: center;
-    max-width: 156px;
+    max-width: 75vw;
   }
 
   #khaLogo {
     height: 75%;
+  }
+
+  #khaLogo-text {
+    margin-top: 7px;
+    height: 70%;
   }
 
   .nav-links {
@@ -197,6 +201,9 @@
       padding-top: 1rem;
       padding-bottom: 1rem;
       transition: opacity 600ms, visibility 600ms;
+    }
+    #khaLogo-text {
+      max-width: 60%;
     }
   }
 </style>
