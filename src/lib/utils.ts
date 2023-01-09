@@ -40,7 +40,7 @@ const extractErrorText = (error: any) => {
 export const collectError = (description: string, error?: any) => {
   if (browser) {
     console.error(`Error: ${description}`);
-    gtag("event", "exception", {
+    gtag("event", "app_exception", {
       description,
       errorText: error && extractErrorText(error),
     });
