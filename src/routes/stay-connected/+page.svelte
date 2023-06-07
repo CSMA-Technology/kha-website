@@ -5,6 +5,10 @@
     type Post,
   } from "$lib/components/InstagramPreview.svelte";
   import { onMount } from "svelte";
+  import { enhance } from "$app/forms";
+  import type { ActionData } from "./$types";
+
+  export let form: ActionData;
 
   let items: Post[];
   onMount(async () => {
@@ -14,8 +18,10 @@
 
   let contactFormStatus: FormStatus = "active";
   let serviceFormStatus: FormStatus = "active";
+  $: subscribeFormStatus = (form?.subscriptionStatus || "active") as FormStatus;
 
   const onContactFormSubmit = async (e: Event) => {
+    disableInputs(e);
     const error = await submitFormToNetlify(e);
     if (error) {
       contactFormStatus = "error";
@@ -25,12 +31,23 @@
   };
 
   const onServiceFormSubmit = async (e: Event) => {
+    disableInputs(e);
     const error = await submitFormToNetlify(e);
     if (error) {
       serviceFormStatus = "error";
     } else {
       serviceFormStatus = "success";
     }
+  };
+
+  const disableInputs = (e: Event) => {
+    const form = e.target as HTMLFormElement;
+    [
+      ...form.getElementsByTagName("input"),
+      ...form.getElementsByTagName("button"),
+    ].forEach((element) => {
+      element.disabled = true;
+    });
   };
 </script>
 
@@ -42,7 +59,7 @@
 <section class="flex-row">
   <section class="flex-item">
     <div class="card">
-      <h2 class="page-subheading">Send Us an Email</h2>
+      <h2 class="page-subheading">Send Us a Message</h2>
       <p>
         We'd love to hear from you! Use the below form to send us a message, and
         someone from the Board will get back to you shortly.
@@ -86,8 +103,49 @@
               <textarea class="form-text-input" name="message" />
             </label>
           </div>
-          <div class="form-row">
-            <button class="primary-button">Submit</button>
+          <button class="primary-button form-submit-button">Submit</button>
+        </form>
+      </FormContainer>
+    </div>
+    <div class="card" id="subscribeForm">
+      <h2 class="page-subheading">Subscribe to Our Emails</h2>
+      <p>
+        Stay up to date on KHA events and community news by signing up for our
+        email newsletters!
+      </p>
+      <FormContainer
+        formStatus={subscribeFormStatus}
+        successMessage={"Thank you for subscribing!"}
+        errorMessage={form?.subscriptionErrorMessage ||
+          "There was an error subscribing, please try again later."}>
+        <form
+          method="POST"
+          action="?/subscribe"
+          class="contact-form"
+          on:submit={disableInputs}
+          use:enhance>
+          <div>
+            <input type="hidden" name="nonce" />
+            <div class="form-row">
+              <label class="form-label">
+                Email
+                <input
+                  type="email"
+                  class="form-text-input"
+                  name="email"
+                  required />
+              </label>
+              <label class="form-label">
+                Name (Optional)
+                <input type="text" class="form-text-input" name="name" />
+              </label>
+            </div>
+            <p>
+              <input
+                class="primary-button form-submit-button"
+                type="submit"
+                value="Subscribe" />
+            </p>
           </div>
         </form>
       </FormContainer>
@@ -130,9 +188,7 @@
                 pattern={"[0-9-() ]{10,15}"} />
             </label>
           </div>
-          <div class="form-row">
-            <button class="primary-button">Submit</button>
-          </div>
+          <button class="primary-button form-submit-button">Submit</button>
         </form>
       </FormContainer>
     </div>
@@ -177,6 +233,10 @@
   }
   .form-row {
     justify-content: flex-end;
+  }
+
+  .form-submit-button {
+    width: 20rem;
   }
 
   .card {
