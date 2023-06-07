@@ -21,7 +21,9 @@ export const actions: Actions = {
     let subscriptionErrorMessage = null;
     if (!response.ok) {
       console.error(
-        `Error adding subscriber to email list: ${response.status}:${response.statusText}`
+        `Error adding subscriber to email list: ${response.status}:${
+          response.statusText
+        }\n${await response.text()}`
       );
       if (response.status == 409) {
         subscriptionErrorMessage = `The email address ${email} is already subscribed!`;
