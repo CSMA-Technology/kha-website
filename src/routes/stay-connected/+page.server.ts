@@ -6,6 +6,7 @@ export const actions: Actions = {
   subscribe: async ({ request }) => {
     const data = await request.formData();
     const email = data.get("email");
+    console.log(email);
     const name = data.get("name") || email?.toString().split("@")[0];
     const response = await fetch(
       "https://communications.kendalehoa.org/api/subscribers",

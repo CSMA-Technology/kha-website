@@ -20,8 +20,12 @@
   let serviceFormStatus: FormStatus = "active";
   $: subscribeFormStatus = (form?.subscriptionStatus || "active") as FormStatus;
 
+  let contactFormButtonEnabled = true;
+  let serviceFormButtonEnabled = true;
+  let subscribeFormButtonEnabled = true;
+
   const onContactFormSubmit = async (e: Event) => {
-    disableInputs(e);
+    contactFormButtonEnabled = false;
     const error = await submitFormToNetlify(e);
     if (error) {
       contactFormStatus = "error";
@@ -31,7 +35,7 @@
   };
 
   const onServiceFormSubmit = async (e: Event) => {
-    disableInputs(e);
+    serviceFormButtonEnabled = false;
     const error = await submitFormToNetlify(e);
     if (error) {
       serviceFormStatus = "error";
@@ -40,14 +44,8 @@
     }
   };
 
-  const disableInputs = (e: Event) => {
-    const form = e.target as HTMLFormElement;
-    [
-      ...form.getElementsByTagName("input"),
-      ...form.getElementsByTagName("button"),
-    ].forEach((element) => {
-      element.disabled = true;
-    });
+  const onSubscribeFormSubmit = () => {
+    subscribeFormButtonEnabled = false;
   };
 </script>
 
@@ -103,7 +101,9 @@
               <textarea class="form-text-input" name="message" />
             </label>
           </div>
-          <button class="primary-button form-submit-button">Submit</button>
+          <button
+            disabled={!contactFormButtonEnabled}
+            class="primary-button form-submit-button">Submit</button>
         </form>
       </FormContainer>
     </div>
@@ -122,7 +122,7 @@
           method="POST"
           action="?/subscribe"
           class="contact-form"
-          on:submit={disableInputs}
+          on:submit={onSubscribeFormSubmit}
           use:enhance>
           <div>
             <input type="hidden" name="nonce" />
@@ -143,6 +143,7 @@
             <p>
               <input
                 class="primary-button form-submit-button"
+                disabled={!subscribeFormButtonEnabled}
                 type="submit"
                 value="Subscribe" />
             </p>
@@ -188,7 +189,9 @@
                 pattern={"[0-9-() ]{10,15}"} />
             </label>
           </div>
-          <button class="primary-button form-submit-button">Submit</button>
+          <button
+            disabled={!serviceFormButtonEnabled}
+            class="primary-button form-submit-button">Submit</button>
         </form>
       </FormContainer>
     </div>
@@ -236,7 +239,8 @@
   }
 
   .form-submit-button {
-    width: 20rem;
+    width: 50%;
+    max-width: 15rem;
   }
 
   .card {
