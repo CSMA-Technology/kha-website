@@ -44,11 +44,13 @@
 
   const onSubscribeFormSubmit = () => {
     subscribeFormButtonEnabled = false;
+    gtag('event', 'email_subscribe');
   };
 </script>
 
 <svelte:head>
   <title>Stay Connected - KHA</title>
+  <meta name="description" content="Stay connected with the Kendale Homeowners Association. Send us a message, subscribe to our emails, or join our community service opportunities. Follow us on Instagram @kendale_hoa for the latest updates.">
 </svelte:head>
 
 <h1 class="page-heading">Connect with Us</h1>
@@ -99,7 +101,13 @@
         formStatus={subscribeFormStatus}
         successMessage={"Thank you for subscribing!"}
         errorMessage={"There was an error subscribing, please try again later."}>
-        <form method="POST" action="?/subscribe" class="contact-form" on:submit={onSubscribeFormSubmit} use:enhance>
+        <form
+          method="POST"
+          action="?/subscribe"
+          class="contact-form"
+          on:submit={onSubscribeFormSubmit}
+          use:enhance
+        >
           <div>
             <input type="hidden" name="nonce" />
             <div class="form-row">
