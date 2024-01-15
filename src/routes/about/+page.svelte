@@ -51,6 +51,52 @@
     </div>
   </section>
 </section>
+<section class="benefits">
+  <h2 class="page-subheading">Benefits of Your Support</h2>
+  <p>
+    By paying your annual dues and donating to KHA, you enable us to improve our community every day.
+    <br />
+    Here are just a few of the contributions KHA makes to our community:
+  </p>
+  <div class="flex-row" style="gap: 1rem;">
+    <div class="card" style="min-width: 15rem; text-align:center; flex: 1 1 0px; padding-left: 0.5rem; padding-right: 0.5rem">
+      <h3>Advocacy</h3>
+      <ul style="text-align: left;">
+        <li>Community Advocacy regarding State, County and Local Issues affecting our area</li>
+        <li>Keeping residents informed of community incidents</li>
+        <li>
+          Working with State (FDOT) , local officials (Elected District Representatives ) and FHP regarding traffic issues (accidents, speeding, etc)
+          affecting our area
+        </li>
+        <li>Police engagement with our Kendall District Department Neighborhood Resource Unit</li>
+      </ul>
+    </div>
+    <div class="card" style="min-width: 15rem; text-align:center; flex: 1 1 0px; padding-left: 0.5rem; padding-right: 0.5rem">
+      <h3>Community</h3>
+      <ul style="text-align: left;">
+        <li>Involvement in Community Neighborhood Crime Watch Program organization</li>
+        <li>Dues contribute to the upkeep of common areas – ensuring a well-maintained and attractive neighborhood</li>
+        <li>
+          Community Events – Festival, Movie Nights, Garage Sale, Fitness classes to foster a send of community and provide opportunities for families
+          to gather
+        </li>
+        <li>Working in 2024 to obtain numerous discounts and benefits to our members from local businesses</li>
+      </ul>
+    </div>
+    <div class="card" style="min-width: 15rem; text-align:center; flex: 1 1 0px; padding-left: 0.5rem; padding-right: 0.5rem">
+      <h3>Value</h3>
+      <ul style="text-align: left;">
+        <li>Ensuring our community stays beautiful, safe and grows in value</li>
+        <li>Funding community improvements</li>
+        <li>
+          Contribute to reserve funds – crucial for the handling of unexpected repairs or major projects - thus ensuring the long-term sustainability
+          of the community
+        </li>
+        <li>Preserving a cohesive and aesthetically pleasing appearance throughout the neighborhoods</li>
+      </ul>
+    </div>
+  </div>
+</section>
 <section class="volunteer">
   <h2 class="page-subheading">We need your help!</h2>
   <p>
@@ -65,12 +111,6 @@
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-  }
-
-  @media (max-width: 480px) {
-    .layout {
-      max-width: 100%;
-    }
   }
 
   .team {
@@ -91,5 +131,28 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: space-between;
+  }
+
+  .benefits {
+    max-width: 90vw;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  @media (max-width: 480px) {
+    .layout {
+      max-width: 100%;
+    }
+    .content {
+      max-width: 95vw;
+      width: 100%;
+    }
+    .benefits {
+      max-width: 95vw;
+    }
+    .commitee-items {
+      justify-content: center;
+    }
   }
 </style>
