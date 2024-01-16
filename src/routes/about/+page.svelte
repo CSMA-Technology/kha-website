@@ -52,7 +52,7 @@
   </section>
 </section>
 <section class="benefits">
-  <h2 class="page-subheading">Benefits of Your Support</h2>
+  <h2 class="page-subheading">What We Do</h2>
   <p>
     By paying your annual dues and donating to KHA, you enable us to improve our community every day.
     <br />
@@ -62,23 +62,23 @@
     <div class="card" style="min-width: 15rem; text-align:center; flex: 1 1 0px; padding-left: 0.5rem; padding-right: 0.5rem">
       <h3>Advocacy</h3>
       <ul style="text-align: left;">
-        <li>Community Advocacy regarding State, County and Local Issues affecting our area</li>
+        <li>Advocating for our community in State, County and Local Issues affecting our area</li>
         <li>Keeping residents informed of community incidents</li>
         <li>
           Working with State (FDOT) , local officials (Elected District Representatives ) and FHP regarding traffic issues (accidents, speeding, etc)
           affecting our area
         </li>
-        <li>Police engagement with our Kendall District Department Neighborhood Resource Unit</li>
+        <li>Engaging with police and our Kendall District Department Neighborhood Resource Unit</li>
       </ul>
     </div>
     <div class="card" style="min-width: 15rem; text-align:center; flex: 1 1 0px; padding-left: 0.5rem; padding-right: 0.5rem">
       <h3>Community</h3>
       <ul style="text-align: left;">
-        <li>Involvement in Community Neighborhood Crime Watch Program organization</li>
-        <li>Dues contribute to the upkeep of common areas – ensuring a well-maintained and attractive neighborhood</li>
+        <li>Organizing the Community Neighborhood Crime Watch Program</li>
+        <li>Maintaining and upkeeping common areas – ensuring a well-maintained and attractive neighborhood</li>
         <li>
-          Community Events – Festival, Movie Nights, Garage Sale, Fitness classes to foster a send of community and provide opportunities for families
-          to gather
+          Organizing community events to foster a send of community and provide opportunities for families to gather – Festival, Movie Nights, Garage
+          Sale, Fitness classes, and more.
         </li>
         <li>Working in 2024 to obtain numerous discounts and benefits to our members from local businesses</li>
       </ul>
@@ -89,18 +89,23 @@
         <li>Ensuring our community stays beautiful, safe and grows in value</li>
         <li>Funding community improvements</li>
         <li>
-          Contribute to reserve funds – crucial for the handling of unexpected repairs or major projects - thus ensuring the long-term sustainability
-          of the community
+          Contributing to reserve funds – crucial for the handling of unexpected repairs or major projects - thus ensuring the long-term
+          sustainability of the community
         </li>
         <li>Preserving a cohesive and aesthetically pleasing appearance throughout the neighborhoods</li>
       </ul>
     </div>
   </div>
+  <h2 class="page-subheading">What We Don't Do</h2>
+  <p>
+    KHA has the utmost respect for homeowners rights and their autonomy.<br />KHA <strong>does not</strong> enforce any rules or covenants or interfere
+    with any homeowners property.
+  </p>
 </section>
 <section class="volunteer">
   <h2 class="page-subheading">We need your help!</h2>
   <p>
-    There are many positions open! If you wish to volunteer, send us a message from the <a href="/stay-connected">contact</a> form.
+    There are many positions open!<br />If you wish to volunteer, send us a message from the <a href="/stay-connected">contact</a> form.
   </p>
 </section>
 
