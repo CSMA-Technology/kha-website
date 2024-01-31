@@ -47,6 +47,14 @@
       headers: {
         "Content-Type": "application/json",
       },
+    }).then((response) => {
+      if (!response.ok) {
+        collectError("Failed to update member", `${response.status}: ${response.statusText}`, {
+          people: JSON.stringify(people),
+          address,
+          neighborhood,
+        });
+      }
     });
     gtag("event", "payment_completed");
     showSuccess = true;
