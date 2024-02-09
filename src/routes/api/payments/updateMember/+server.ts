@@ -37,18 +37,22 @@ ${MEMBER_API_URL}/organization/${MEMBER_ORGANIZATION}/members\
     throw error(500, response.statusText);
   }
   const existingMembers: Member[] = await response.json();
-  let newMembers: Member[] = people.map((person) => ({
-    name: person.name,
-    attributes: {
-      "Last Name": person.name.split(" ").pop() ?? person.name,
-      "House Number": houseNumber,
-      Street: streetName,
-      Neighborhood: neighborhood,
-      "Phone Numbers": [person.phone],
-      Emails: [person.email],
-      "Years Paid": [new Date().getFullYear().toString()],
-    },
-  }));
+  let newMembers: Member[] = people.map((person) => {
+    const trimmedName = person.name.trim();
+    return {
+      name: trimmedName,
+      attributes: {
+        "Last Name": trimmedName.split(" ").pop() ?? "",
+        "House Number": houseNumber,
+        Street: streetName,
+        Neighborhood: neighborhood,
+        "Phone Numbers": [person.phone],
+        Emails: [person.email],
+        "Years Paid": [new Date().getFullYear().toString()],
+        "Full Address": `${houseNumber} SW ${streetName}`,
+      },
+    };
+  });
   if (existingMembers.length === 0) {
     console.log(`No existing members found for address: ${address}. New ones will be created.`);
   } else {
