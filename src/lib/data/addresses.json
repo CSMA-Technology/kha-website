@@ -1,0 +1,6974 @@
+[
+  {
+    "number": 8800,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8801,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8820,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8821,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8840,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8841,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8900,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8900,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8901,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8903,
+    "direction": "SW",
+    "street": "102 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8905,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8910,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8913,
+    "direction": "SW",
+    "street": "102 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8915,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8920,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8920,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8921,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8923,
+    "direction": "SW",
+    "street": "102 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8925,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8930,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8935,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8940,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 8941,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9000,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9000,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9001,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9003,
+    "direction": "SW",
+    "street": "102 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9005,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9013,
+    "direction": "SW",
+    "street": "102 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9020,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9021,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9025,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9035,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9040,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9041,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9100,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9101,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9115,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9120,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9121,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9125,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9131,
+    "direction": "SW",
+    "street": "101 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9135,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9140,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9141,
+    "direction": "SW",
+    "street": "101 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9141,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9145,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9200,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9200,
+    "direction": "SW",
+    "street": "101 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9200,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9201,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9201,
+    "direction": "SW",
+    "street": "101 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9210,
+    "direction": "SW",
+    "street": "101 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9211,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9220,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9220,
+    "direction": "SW",
+    "street": "101 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9220,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9221,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9221,
+    "direction": "SW",
+    "street": "101 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9221,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9230,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9231,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9231,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9241,
+    "direction": "SW",
+    "street": "101 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9300,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9300,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9300,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9300,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9301,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9301,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9301,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9301,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9301,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9310,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9310,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9310,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9310,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9311,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9311,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9311,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9320,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9320,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9320,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9320,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9320,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9321,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9321,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9321,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9321,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9330,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9330,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9331,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9331,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9340,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9340,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9340,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9340,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9341,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9341,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9345,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9350,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9360,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9361,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9400,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9400,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9400,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9400,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9400,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9401,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9401,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9401,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9401,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9401,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9405,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9410,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9410,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9411,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9420,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9420,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9420,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9420,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9421,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9421,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9421,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9425,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9440,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9440,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9440,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9441,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9441,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9441,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9445,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9460,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9461,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9500,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9500,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9501,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9501,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9501,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9510,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9511,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9520,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9600,
+    "direction": "SW",
+    "street": "103 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9600,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9600,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9601,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9601,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9601,
+    "direction": "SW",
+    "street": "103 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9601,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9601,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9611,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9620,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9620,
+    "direction": "SW",
+    "street": "103 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9620,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9620,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9621,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9621,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9621,
+    "direction": "SW",
+    "street": "103 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9621,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9621,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9630,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9630,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9630,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9631,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9640,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9640,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9640,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9640,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9641,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9650,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9650,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9650,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9650,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9651,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9651,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9660,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9660,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9660,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9660,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9660,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9660,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9661,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9661,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9670,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9670,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9671,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9671,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9671,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9675,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9680,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9680,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9680,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9681,
+    "direction": "SW",
+    "street": "102 AVE RD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9681,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9690,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9691,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9691,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9700,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9700,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9700,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9700,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9700,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9700,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9700,
+    "direction": "SW",
+    "street": "105 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9700,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9700,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9701,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9701,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9701,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9701,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9701,
+    "direction": "SW",
+    "street": "105 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9701,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9705,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9710,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9710,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9710,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9710,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9710,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9710,
+    "direction": "SW",
+    "street": "105 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9710,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9710,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9711,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9711,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9711,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9711,
+    "direction": "SW",
+    "street": "105 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9715,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9720,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9720,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9720,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9720,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9720,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9720,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9720,
+    "direction": "SW",
+    "street": "105 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9720,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9720,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9721,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9721,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9721,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9721,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9721,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9725,
+    "direction": "SW",
+    "street": "104 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9730,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9731,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9731,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9731,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9740,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9740,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9740,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9741,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9741,
+    "direction": "SW",
+    "street": "100 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9741,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9741,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9751,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9751,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9760,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9760,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9761,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9761,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9771,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9780,
+    "direction": "SW",
+    "street": "103 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9781,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9785,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9791,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9800,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9800,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9800,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9800,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9800,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9801,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9801,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9801,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9801,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9810,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9820,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9820,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9820,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9820,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9820,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9821,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9821,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9821,
+    "direction": "SW",
+    "street": "106 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9821,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9840,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9840,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9840,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9841,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9841,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9841,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9845,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9860,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9860,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9861,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9865,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9880,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9881,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9885,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9900,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9900,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9901,
+    "direction": "SW",
+    "street": "101 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9901,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9901,
+    "direction": "SW",
+    "street": "98 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9901,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9901,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9902,
+    "direction": "SW",
+    "street": "97 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9905,
+    "direction": "SW",
+    "street": "97 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9920,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9920,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9920,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9921,
+    "direction": "SW",
+    "street": "101 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9921,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9921,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9921,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9921,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9921,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9922,
+    "direction": "SW",
+    "street": "97  PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9925,
+    "direction": "SW",
+    "street": "97  PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9930,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9931,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9931,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9940,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9940,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9940,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9940,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9941,
+    "direction": "SW",
+    "street": "101 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9941,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9941,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9941,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9941,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9942,
+    "direction": "SW",
+    "street": "97  PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9945,
+    "direction": "SW",
+    "street": "97  PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9950,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9950,
+    "direction": "SW",
+    "street": "104 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9950,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9950,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9951,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9955,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9960,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9960,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9960,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9960,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9960,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9960,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9961,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9961,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9965,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9965,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9970,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9970,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9970,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9970,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9971,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9971,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9975,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9980,
+    "direction": "SW",
+    "street": "104 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9980,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9981,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 9990,
+    "direction": "SW",
+    "street": "99  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10000,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10000,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10000,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10000,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10001,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10001,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10001,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10001,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10005,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10005,
+    "direction": "SW",
+    "street": "111 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10005,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10010,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10010,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10015,
+    "direction": "SW",
+    "street": "102 AVE RD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10015,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10020,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10020,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10020,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10020,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10021,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10021,
+    "direction": "SW",
+    "street": "112 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10021,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10021,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10021,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10025,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10025,
+    "direction": "SW",
+    "street": "111 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10030,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10030,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10031,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10031,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10035,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10040,
+    "direction": "SW",
+    "street": "102 AVE ROAD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10040,
+    "direction": "SW",
+    "street": "111 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10040,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10040,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10041,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10041,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10045,
+    "direction": "SW",
+    "street": "111 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10050,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10050,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10060,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10061,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10081,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10100,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10100,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10100,
+    "direction": "SW",
+    "street": "111 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10100,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10100,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10101,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10101,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10101,
+    "direction": "SW",
+    "street": "112 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10101,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10101,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10101,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10101,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10105,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10105,
+    "direction": "SW",
+    "street": "111 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10105,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10110,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10111,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10111,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10115,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10120,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10120,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10120,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10120,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10121,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10121,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10121,
+    "direction": "SW",
+    "street": "112 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10121,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10121,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10121,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10121,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10125,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10125,
+    "direction": "SW",
+    "street": "111 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10130,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10130,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10130,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10131,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10131,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10131,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10135,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10140,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10140,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10140,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10140,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10141,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10141,
+    "direction": "SW",
+    "street": "97  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10141,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10141,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10145,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10145,
+    "direction": "SW",
+    "street": "111 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10150,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10150,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10151,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10155,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10160,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10160,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10160,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10160,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10161,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10161,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10165,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10165,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10165,
+    "direction": "SW",
+    "street": "111 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10170,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10170,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10170,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10171,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10171,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10175,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10180,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10180,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10180,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10180,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10180,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10181,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10181,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10185,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10185,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10190,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10190,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10190,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10191,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10191,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10191,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10191,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10195,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10195,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10200,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10200,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10200,
+    "direction": "SW",
+    "street": "105 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10200,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10200,
+    "direction": "SW",
+    "street": "106 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10200,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10200,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10200,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10200,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10201,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10201,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10201,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10201,
+    "direction": "SW",
+    "street": "105 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10201,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10201,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10201,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10201,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10201,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10203,
+    "direction": "SW",
+    "street": "105 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10203,
+    "direction": "SW",
+    "street": "106 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10205,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10205,
+    "direction": "SW",
+    "street": "106 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10205,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10210,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10210,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10210,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10211,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10211,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10215,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "105 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "106 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "91  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10220,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10221,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10225,
+    "direction": "SW",
+    "street": "106 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10225,
+    "direction": "SW",
+    "street": "91  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "105 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "106 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "91  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10230,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10231,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10231,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10231,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10231,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10231,
+    "direction": "SW",
+    "street": "91  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10231,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10235,
+    "direction": "SW",
+    "street": "106 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "105 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "106 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10240,
+    "direction": "SW",
+    "street": "99 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10241,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10241,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10241,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10241,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10241,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10241,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10241,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10241,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10241,
+    "direction": "SW",
+    "street": "99  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10245,
+    "direction": "SW",
+    "street": "106 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10250,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10250,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10250,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10250,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10250,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10251,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10251,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10251,
+    "direction": "SW",
+    "street": "91  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10251,
+    "direction": "SW",
+    "street": "92  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10255,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10260,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10260,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10260,
+    "direction": "SW",
+    "street": "92  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10260,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10260,
+    "direction": "",
+    "street": "S. KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10261,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10261,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10261,
+    "direction": "SW",
+    "street": "92  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10261,
+    "direction": "SW",
+    "street": "98  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10265,
+    "direction": "SW",
+    "street": "93  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10270,
+    "direction": "SW",
+    "street": "102 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10270,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10270,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10270,
+    "direction": "SW",
+    "street": "92  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10270,
+    "direction": "SW",
+    "street": "93  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10270,
+    "direction": "SW",
+    "street": "96  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10270,
+    "direction": "",
+    "street": "S. KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10271,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10271,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10271,
+    "direction": "SW",
+    "street": "92  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10275,
+    "direction": "SW",
+    "street": "93  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10280,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10280,
+    "direction": "SW",
+    "street": "92  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10280,
+    "direction": "SW",
+    "street": "93  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10281,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10281,
+    "direction": "SW",
+    "street": "92  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10285,
+    "direction": "SW",
+    "street": "103 LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10285,
+    "direction": "SW",
+    "street": "93  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10290,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10290,
+    "direction": "SW",
+    "street": "103 LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10290,
+    "direction": "SW",
+    "street": "92  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10291,
+    "direction": "SW",
+    "street": "92  TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10295,
+    "direction": "SW",
+    "street": "103  LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "100  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "102  AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "102  ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "103  CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "103  LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "103 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "99 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10300,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "98 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10301,
+    "direction": "SW",
+    "street": "99 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10305,
+    "direction": "SW",
+    "street": "103 LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10305,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10305,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10305,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10305,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "103 LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "103 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10310,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10311,
+    "direction": "SW",
+    "street": "103 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10311,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10311,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10311,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10315,
+    "direction": "SW",
+    "street": "103 LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10315,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10315,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10315,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10315,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "103 LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "103 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "99 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10320,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "103 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "98 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10321,
+    "direction": "SW",
+    "street": "99 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10325,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10325,
+    "direction": "SW",
+    "street": "103 LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10325,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10325,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10325,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10325,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10325,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10325,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "103 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10330,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10331,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10331,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10331,
+    "direction": "SW",
+    "street": "103 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10331,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10331,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10335,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10335,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10335,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10335,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "103 LN",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "103 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10340,
+    "direction": "SW",
+    "street": "99 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10341,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10341,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10341,
+    "direction": "SW",
+    "street": "103 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10341,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10341,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10341,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10341,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10341,
+    "direction": "SW",
+    "street": "99 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10345,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10345,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10345,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10345,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10345,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10345,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10345,
+    "direction": "SW",
+    "street": "97 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10345,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10350,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10350,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10350,
+    "direction": "SW",
+    "street": "107 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10350,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10350,
+    "direction": "SW",
+    "street": "90 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10350,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10350,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10350,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10351,
+    "direction": "SW",
+    "street": "89 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10355,
+    "direction": "SW",
+    "street": "107 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10355,
+    "direction": "SW",
+    "street": "91 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10355,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10355,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10355,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10355,
+    "direction": "SW",
+    "street": "97 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10360,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10360,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10360,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10360,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10360,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10360,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10360,
+    "direction": "SW",
+    "street": "97 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10360,
+    "direction": "SW",
+    "street": "97 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10361,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10361,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10361,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10365,
+    "direction": "SW",
+    "street": "107 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10365,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10365,
+    "direction": "SW",
+    "street": "97 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10365,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10370,
+    "direction": "SW",
+    "street": "107 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10370,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10370,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10370,
+    "direction": "SW",
+    "street": "97 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10370,
+    "direction": "SW",
+    "street": "97 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10375,
+    "direction": "SW",
+    "street": "107 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10375,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10375,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10375,
+    "direction": "SW",
+    "street": "97 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10375,
+    "direction": "SW",
+    "street": "97 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10375,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10380,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10380,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10380,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10380,
+    "direction": "SW",
+    "street": "97 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10380,
+    "direction": "SW",
+    "street": "97 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10380,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10385,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10385,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10385,
+    "direction": "SW",
+    "street": "97 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10385,
+    "direction": "SW",
+    "street": "97 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10385,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10390,
+    "direction": "SW",
+    "street": "97 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10390,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10395,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10400,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10400,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10400,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10400,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10400,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10400,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10401,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10401,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10401,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10401,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10405,
+    "direction": "SW",
+    "street": "107 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10405,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10405,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10405,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10410,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10410,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10410,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10411,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10411,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10415,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10415,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10415,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10420,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10420,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10420,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10420,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10420,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10420,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10421,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10421,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10421,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10425,
+    "direction": "SW",
+    "street": "107 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10425,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10425,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10425,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10430,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10430,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10430,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10431,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10431,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10431,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10431,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10433,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10435,
+    "direction": "SW",
+    "street": "92 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10435,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10440,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10440,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10440,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10441,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10441,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10441,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10443,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10445,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10445,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10450,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10450,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10450,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10450,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10450,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10450,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10451,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10451,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10453,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10453,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10455,
+    "direction": "SW",
+    "street": "107 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10455,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10455,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10460,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10460,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10460,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10460,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10460,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10460,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10461,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10463,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10465,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10465,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10465,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10470,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10470,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10470,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10470,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10470,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10471,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10471,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10475,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10475,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10480,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10480,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10480,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10480,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10480,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10481,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10485,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10485,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "108 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10500,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10501,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10501,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10501,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10501,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10501,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10501,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10501,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10501,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10502,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10503,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10505,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10510,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10510,
+    "direction": "SW",
+    "street": "108 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10510,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10510,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10510,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10511,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10513,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10515,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10515,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10520,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10520,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10520,
+    "direction": "SW",
+    "street": "108 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10520,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10520,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10520,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10520,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10520,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10520,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10521,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10521,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10521,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10521,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10521,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10521,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10522,
+    "direction": "SW",
+    "street": "107 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10522,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10523,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10525,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10525,
+    "direction": "SW",
+    "street": "108 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10525,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10525,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10530,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10530,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10530,
+    "direction": "SW",
+    "street": "103 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10530,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10530,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10530,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10530,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10531,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10531,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10532,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10533,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10535,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10535,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10540,
+    "direction": "SW",
+    "street": "108 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10540,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10540,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10540,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10540,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10540,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10540,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10541,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10541,
+    "direction": "SW",
+    "street": "107 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10541,
+    "direction": "SW",
+    "street": "108 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10541,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10541,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10541,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10545,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10545,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10545,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10545,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10550,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10550,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10550,
+    "direction": "SW",
+    "street": "98 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10550,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10551,
+    "direction": "SW",
+    "street": "103 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10551,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10555,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10555,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10560,
+    "direction": "SW",
+    "street": "108 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10560,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10560,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10565,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10565,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10565,
+    "direction": "SW",
+    "street": "109 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10575,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10580,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10580,
+    "direction": "SW",
+    "street": "108 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10585,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10585,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10590,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10600,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10600,
+    "direction": "SW",
+    "street": "108 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10600,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10600,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10600,
+    "direction": "SW",
+    "street": "95 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10600,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10600,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10600,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10601,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10601,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10601,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10601,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10602,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10603,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10604,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10605,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10607,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10610,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10615,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10620,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10620,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10620,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10620,
+    "direction": "SW",
+    "street": "95 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10620,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10620,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10620,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10621,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10621,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10621,
+    "direction": "SW",
+    "street": "93 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10621,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10621,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10622,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10623,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10624,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10625,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10625,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10626,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10627,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10630,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10630,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10630,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10631,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10631,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10632,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10633,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10634,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10635,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10635,
+    "direction": "SW",
+    "street": "96 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10636,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10637,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10640,
+    "direction": "SW",
+    "street": "110 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10640,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10640,
+    "direction": "SW",
+    "street": "95 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10640,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10640,
+    "direction": "SW",
+    "street": "99 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10641,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10641,
+    "direction": "SW",
+    "street": "103 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10641,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10641,
+    "direction": "SW",
+    "street": "99 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10643,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10644,
+    "direction": "",
+    "street": "KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10645,
+    "direction": "SW",
+    "street": "100 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10647,
+    "direction": "SW",
+    "street": "102 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10660,
+    "direction": "SW",
+    "street": "93 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10660,
+    "direction": "SW",
+    "street": "95 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10660,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10661,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10680,
+    "direction": "SW",
+    "street": "96 ST",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10700,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10700,
+    "direction": "SW",
+    "street": "109 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10701,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10701,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10701,
+    "direction": "SW",
+    "street": "109 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10720,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10720,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10721,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10721,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10721,
+    "direction": "SW",
+    "street": "109 TER",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10730,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10731,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10740,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10740,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10741,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10750,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10751,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10751,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10760,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10760,
+    "direction": "",
+    "street": "S. KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10761,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10770,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10771,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10780,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10780,
+    "direction": "",
+    "street": "S. KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10791,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10800,
+    "direction": "SW",
+    "street": "102 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10800,
+    "direction": "",
+    "street": "S. KENDALE BLVD",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10801,
+    "direction": "SW",
+    "street": "102 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10801,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10801,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10801,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10820,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10821,
+    "direction": "SW",
+    "street": "102 PL",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10821,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10825,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10831,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10840,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10841,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10845,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10860,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10870,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10880,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10885,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10895,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10900,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10900,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10900,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10900,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10901,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10901,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10901,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10901,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10905,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10915,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10920,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10920,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10920,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10920,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10920,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10921,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10921,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10925,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10930,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10930,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10931,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10935,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10935,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10940,
+    "direction": "SW",
+    "street": "104 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10940,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10941,
+    "direction": "SW",
+    "street": "102 CT",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10945,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10950,
+    "direction": "SW",
+    "street": "105 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10955,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10960,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10960,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10961,
+    "direction": "SW",
+    "street": "106 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10965,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10975,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10980,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10985,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 10995,
+    "direction": "SW",
+    "street": "107 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 11101,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 11121,
+    "direction": "SW",
+    "street": "102 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 11151,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  },
+  {
+    "number": 11152,
+    "direction": "SW",
+    "street": "100 AVE",
+    "city": "MIAMI, FL 33176"
+  }
+]
