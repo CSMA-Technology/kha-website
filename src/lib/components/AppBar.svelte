@@ -1,7 +1,7 @@
 <script lang="ts">
-  // import houseLogo from "$lib/assets/logo-no-text.svg";
+  import houseLogo from "$lib/assets/logo-no-text.svg";
   // import houseLogo from "$lib/assets/logo-halloween.png";
-  import houseLogo from "$lib/assets/logo-christmas.svg";
+  // import houseLogo from "$lib/assets/logo-christmas.svg";
   import logoText from "$lib/assets/logo-text.svg";
   import { slide } from "svelte/transition";
   import { linear } from "svelte/easing";
@@ -15,15 +15,16 @@
   let bannerAlertsDismissed: Set<string>;
   let showBanner = false;
   const bannerText = `We rely on your support! To pay your dues, click <a href="/pay-dues">here.</a>`;
-  const currentBannerFlag = "bannerAlertsDismissed";
+  const bannerKey = "dues2025";
+  const dismissedBannersId = "bannerAlertsDismissed";
   onMount(() => {
-    bannerAlertsDismissed = new Set(JSON.parse(localStorage.getItem(currentBannerFlag) || "[]"));
-    showBanner = !bannerAlertsDismissed.has(bannerText);
+    bannerAlertsDismissed = new Set(JSON.parse(localStorage.getItem(dismissedBannersId) || "[]"));
+    showBanner = !bannerAlertsDismissed.has(bannerKey);
   });
 
   const onBannerAlertClose = () => {
-    bannerAlertsDismissed.add(bannerText);
-    localStorage.setItem(currentBannerFlag, JSON.stringify(Array.from(bannerAlertsDismissed)));
+    bannerAlertsDismissed.add(bannerKey);
+    localStorage.setItem(dismissedBannersId, JSON.stringify(Array.from(bannerAlertsDismissed)));
     showBanner = false;
   };
 </script>
