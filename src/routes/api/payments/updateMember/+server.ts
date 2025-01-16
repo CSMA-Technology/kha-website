@@ -2,6 +2,7 @@ import type { Person } from "$lib/components/payments/PaymentForm.svelte";
 import type { RequestHandler } from "./$types";
 import { MEMBER_API_TOKEN, MEMBER_API_URL, MEMBER_ORGANIZATION } from "$env/static/private";
 import { error } from "@sveltejs/kit";
+import { standardizeAddress } from "./utils";
 
 type Member = {
   id?: string;
@@ -122,52 +123,3 @@ ${MEMBER_API_URL}/organization/${MEMBER_ORGANIZATION}/members\
     throw error(500, "Error creating new members");
   }
 };
-
-/**
- * Helper Functions
- * Generated partially with ChatGPT, so examine carefully
- */
-
-function standardizeAddress(address: string): { houseNumber: string; streetName: string; direction: string | undefined } {
-  // Regular expression to match the house number and street name
-  const regex = /^(?<houseNumber>\d+)\s*(?<direction>NW|NE|SW|SE)?\s*(?<streetName>\w+)?\s*(?<streetType>[\w\s]*)/i;
-
-  // Dictionary to standardize common abbreviations (all in uppercase for case-insensitive matching)
-  const abbreviations = {
-    ST: "Street",
-    RD: "Road",
-    AVE: "Avenue",
-    BLVD: "Boulevard",
-    DR: "Drive",
-    LN: "Lane",
-    CT: "Court",
-    PL: "Place",
-    TER: "Terrace",
-    TERR: "Terrace",
-    PKWY: "Parkway",
-    CIR: "Circle",
-    HWY: "Highway",
-    "AVE RD": "Avenue Road",
-    "AVENUE RD": "Avenue Road",
-    "AVE ROAD": "Avenue Road",
-    // Add more abbreviations as needed
-  };
-
-  // Function to capitalize the first letter of each word
-  function capitalizeWord(word: string) {
-    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
-  }
-
-  const result = regex.exec(address.replaceAll(/[^\w\s]/g, "")); // Remove any non-word character from the input string, such that something like "S.W." becomes "SW"
-  if (result && result.groups) {
-    const { houseNumber, direction, streetName, streetType } = result.groups;
-    let combinedStreetName =
-      // @ts-expect-error
-      `${capitalizeWord(streetName.replace(/(st|th|nd|rd)$/i, ""))} ${abbreviations[streetType.toUpperCase()] ?? capitalizeWord(streetType)}`.trim();
-    return { houseNumber, streetName: combinedStreetName, direction: direction?.toUpperCase() };
-  }
-  console.error(
-    `Address: ${address} does not match the regex to extract house number and street name. Returning the original address for all fields.`,
-  );
-  return { houseNumber: address, streetName: address, direction: address };
-}
