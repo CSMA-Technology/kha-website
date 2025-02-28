@@ -14,6 +14,7 @@ import holidayToyDrive2024 from "$lib/assets/events/holiday-toy-drive-2024.jpeg"
 import holidayGolfCartParade2024 from "$lib/assets/events/holiday-golf-cart-parade-2024.jpeg";
 import holidayGolfCartParadeRoute2024 from "$lib/assets/events/holiday-golf-cart-parade-route-2024.jpeg";
 import bikeRide202501 from "$lib/assets/events/bike-ride-2025-01.png";
+import bikeride202503 from "$lib/assets/events/bike-ride-2025-03.jpeg";
 
 export type Event = {
   name: string;
@@ -26,6 +27,14 @@ export type Event = {
 };
 
 const events: Event[] = [
+  {
+    name: "Community Bike Ride",
+    description: `Join us on Sunday, March 2nd for our next Community Bike Ride!`,
+    date: new Date("2025-03-02T17:00"),
+    location: "Kendale Park - 10300 SW 93 Street",
+    photo: bikeride202503,
+    photoAlt: "A flyer for the Community Bike Ride",
+  },
   {
     name: "Citizens Crimewatch Meeting",
     description: `The Kendale Homeowners Association has organized a Community Citizens Crimewatch Meeting. We urge residents from all 3 communities to come out, gather important program information and voice your concerns to the officers present. Be sure to bring a lawn chair!`,
