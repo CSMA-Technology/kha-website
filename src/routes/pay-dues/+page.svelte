@@ -128,12 +128,13 @@
   </div>
 </section>
 <section class="container">
-  <h2 class="page-subheading">Pay with Venmo</h2>
+  <h2 class="page-subheading">Pay with Venmo or Zelle</h2>
   <p>
     The easiest way to pay with Venmo is to fill out the <a href="#pay-online-form">online payment form</a>
     above, and select the Venmo option at checkout. <br /><br />
     If you prefer to send a payment manually, please do so to
-    <b>@KendaleHomeowners-Association</b>, and include your name, email, phone number, and address in the note for our records.
+    <b>@KendaleHomeowners-Association</b> on Venmo, or <b>kha@kendalehoa.org</b> on Zelle. Please include your name, email, phone number, and address in
+    the note for our records.
   </p>
 </section>
 <!-- TODO: Get updated membership form, update this image, and display this -->
