@@ -20,9 +20,10 @@
     const { clientId, token } = paypalTokenData;
     try {
       paypal = await loadScript({
-         clientId,
-         dataClientToken: token,
-         disableFunding: "paylater"
+        clientId,
+        dataClientToken: token,
+        disableFunding: "paylater",
+        enableFunding: "card",
       });
     } catch (error) {
       collectError("failed to load the PayPal JS SDK script", error);
