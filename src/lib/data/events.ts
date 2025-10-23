@@ -3,9 +3,11 @@ import communityBikeRide2024 from "$lib/assets/events/community-bike-ride-2024.j
 import holidayToyDrive2024 from "$lib/assets/events/holiday-toy-drive-2024.jpeg";
 import holidayGolfCartParade2024 from "$lib/assets/events/holiday-golf-cart-parade-2024.jpeg";
 import holidayGolfCartParadeRoute2024 from "$lib/assets/events/holiday-golf-cart-parade-route-2024.jpeg";
+import holidayGolfCartParadeRoute2025 from "$lib/assets/events/holiday-golf-cart-parade-route-2025.jpeg";
 import bikeRide202501 from "$lib/assets/events/bike-ride-2025-01.png";
 import halloweenEvent2025 from "$lib/assets/events/halloween-event-2025.png";
 import halloweenGolfCartParade2025 from "$lib/assets/events/halloween-golf-cart-parade-2025.png";
+import movieNight202511 from "$lib/assets/events/movie-night-2025-11.png";
 
 export type Event = {
   name: string;
@@ -78,11 +80,19 @@ const events: Event[] = [
   },
   {
     name: "Halloween Golf Cart Parade",
-    description: "Join us for our Halloween Golf Cart Parade around The Village starting at 7 pm!",
+    description: `Join us for our Halloween Golf Cart Parade around The Village starting at 7 pm! To see the route, <a href=${holidayGolfCartParadeRoute2025} target="_blank">click here.</a>`,
     date: new Date("2025-10-26T19:00"),
     location: "Kendale Park - 10300 SW 93 Street",
     photo: halloweenGolfCartParade2025,
     photoAlt: "A flyer for the Halloween Golf Cart Parade",
+  },
+  {
+    name: "Movie Night in the Park",
+    description: "Save the Date! Join us on Saturday, November 8 for this wonderful community event. More details to come!",
+    date: new Date("2025-11-08T19:00"),
+    location: "Kendale Park - 10300 SW 93 Street",
+    photo: movieNight202511,
+    photoAlt: "A flyer for Movie Night in the Park",
   },
 ];
 
