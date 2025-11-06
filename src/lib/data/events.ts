@@ -7,7 +7,7 @@ import holidayGolfCartParadeRoute2025 from "$lib/assets/events/holiday-golf-cart
 import bikeRide202501 from "$lib/assets/events/bike-ride-2025-01.png";
 import halloweenEvent2025 from "$lib/assets/events/halloween-event-2025.png";
 import halloweenGolfCartParade2025 from "$lib/assets/events/halloween-golf-cart-parade-2025.png";
-import movieNight202511 from "$lib/assets/events/movie-night-2025-11.png";
+import movieNight202511 from "$lib/assets/events/movie-night-2025-11.jpeg";
 
 export type Event = {
   name: string;
@@ -88,7 +88,8 @@ const events: Event[] = [
   },
   {
     name: "Movie Night in the Park",
-    description: "Save the Date! Join us on Saturday, November 8 for this wonderful community event. More details to come!",
+    description:
+      "Join us this Saturday at 7pm for Movie Night at Kendale Park. Bring your coziest blankets, your favorite lawn chairs, and everyone you love for an evening of cinema under the stars. It's the perfect way to spend your Saturday night. See you at the Park!!",
     date: new Date("2025-11-08T19:00"),
     location: "Kendale Park - 10300 SW 93 Street",
     photo: movieNight202511,
