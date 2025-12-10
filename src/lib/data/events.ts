@@ -8,6 +8,7 @@ import bikeRide202501 from "$lib/assets/events/bike-ride-2025-01.png";
 import halloweenEvent2025 from "$lib/assets/events/halloween-event-2025.png";
 import halloweenGolfCartParade2025 from "$lib/assets/events/halloween-golf-cart-parade-2025.png";
 import movieNight202511 from "$lib/assets/events/movie-night-2025-11.jpeg";
+import holidayGolfCartParade2025 from "$lib/assets/events/holiday-golf-cart-parade-2025.png";
 
 export type Event = {
   name: string;
@@ -94,6 +95,14 @@ const events: Event[] = [
     location: "Kendale Park - 10300 SW 93 Street",
     photo: movieNight202511,
     photoAlt: "A flyer for Movie Night in the Park",
+  },
+  {
+    name: "Holiday Golf Cart Parade",
+    description: `Join us for our Annual Holiday Golf Cart Parade! Join in the parade with your decorated golf cart or line up along the route and cheer them on! <br/>Check back soon for the parade route.`,
+    date: new Date("2025-12-21T17:30"),
+    location: "Kendale Park - 10300 SW 93 Street",
+    photo: holidayGolfCartParade2025,
+    photoAlt: "A flyer for the holiday golf cart parade",
   },
 ];
 
