@@ -63,7 +63,7 @@
   <title>Stay Connected - KHA</title>
   <meta
     name="description"
-    content="Stay connected with the Kendale Homeowners Association. Send us a message, subscribe to our emails, or join our community service opportunities. Follow us on Instagram @kendale_hoa for the latest updates." />
+    content="Stay connected with the Kendale Homeowners Association. Send us a message, subscribe to our emails, or join our community service opportunities. Follow us on Instagram @kendale_community for the latest updates." />
 </svelte:head>
 
 <Modal centered body header="Happy 4th of July!" isOpen={showModal} toggle={toggleModal}>
@@ -171,7 +171,7 @@
         style="color: black"
         rel="noreferrer"
         target="_blank"
-        href="https://www.instagram.com/kendale_hoa"><strong>@kendale_hoa</strong></a>
+        href="https://www.instagram.com/kendale_community"><strong>@kendale_community</strong></a>
     </p>
     <!-- <InstagramPreview {items} /> -->
   </section>

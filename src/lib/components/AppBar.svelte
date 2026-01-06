@@ -14,8 +14,8 @@
 
   let bannerAlertsDismissed: Set<string>;
   let showBanner = false;
-  const bannerText = `We rely on your support! To pay your dues, click <a href="/pay-dues">here.</a>`;
-  const bannerKey = "dues2025";
+  const bannerText = `We rely on your support! To pay your 2026 dues, click <a href="/pay-dues">here.</a>`;
+  const bannerKey = "dues2026";
   const dismissedBannersId = "bannerAlertsDismissed";
   onMount(() => {
     bannerAlertsDismissed = new Set(JSON.parse(localStorage.getItem(dismissedBannersId) || "[]"));

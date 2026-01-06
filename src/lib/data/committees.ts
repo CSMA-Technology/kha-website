@@ -1,38 +1,38 @@
 export default [
   {
     name: "Membership",
-    members: ["Alain Fernandez", "Joanna & Victor Davalos", "Wanda Currea", "Karol Hochman", "Dan Miranda", "Tony Nardo", "Jorge Labarraque"],
+    members: [],
   },
   {
     name: "Public Safety",
-    members: ["Manny Garcia", "James Nessl", "Jim Cox", "Wanda Currea", "Richard Praschnik"],
+    members: [],
   },
   {
     name: "Grounds",
-    members: ["Ralph Valdes-Brito", "James Nessl", "Nasser Aldaihani"],
+    members: [],
   },
   {
     name: "Events",
-    members: ["Ann Lyons"],
+    members: [],
   },
   {
     name: "Festival",
-    members: ["Wanda Currea"],
+    members: [],
   },
   {
     name: "Movie Night",
-    members: ["Maritza Pardinas", "Jan Cox"],
+    members: [],
   },
   {
     name: "Zoning & Covenants",
-    members: ["Catherine Christofis"],
+    members: [],
   },
   {
     name: "Golf Cart Parades",
-    members: ["Alana Sullivan", "Ady Benavente"],
+    members: [],
   },
   {
     name: "Social Media",
-    members: ["Nasser Aldaihani"],
+    members: [],
   },
 ];

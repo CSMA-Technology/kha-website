@@ -9,7 +9,7 @@
     id: string;
   };
 
-  const instagramUrl = "https://www.instagram.com/kendale_hoa";
+  const instagramUrl = "https://www.instagram.com/kendale_community";
 </script>
 
 <script lang="ts">

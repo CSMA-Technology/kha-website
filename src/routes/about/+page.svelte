@@ -92,6 +92,10 @@
     </div>
     <div class="committees">
       <h2 class="page-subheading">Our Committees</h2>
+      <p>
+        Volunteers are needed for the below committees.<br />If you wish to volunteer, send us a message from the
+        <a href="/stay-connected">contact</a> form.
+      </p>
       <div class="commitee-items">
         {#each committees as { name, members }}
           <Committee {name} {members} />
@@ -101,12 +105,12 @@
   </section>
 </section>
 
-<section class="volunteer">
+<!-- <section class="volunteer">
   <h2 class="page-subheading">We need your help!</h2>
   <p>
     There are many positions open!<br />If you wish to volunteer, send us a message from the <a href="/stay-connected">contact</a> form.
   </p>
-</section>
+</section> -->
 
 <style>
   .layout {

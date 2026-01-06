@@ -4,7 +4,7 @@
   import instagramLogo from "$lib/assets/logos/instagram.webp";
 
   const facebookUrl = "https://www.facebook.com/KHAHOME";
-  const instagramUrl = "https://www.instagram.com/kendale_hoa/";
+  const instagramUrl = "https://www.instagram.com/kendale_community/";
   const emailUrl = "mailto:kha@kendalehoa.org";
 </script>
 
