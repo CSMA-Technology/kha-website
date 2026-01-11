@@ -34,7 +34,7 @@
     </p>
     <h2 class="page-subheading">What We Do</h2>
     <p>
-      By paying your annual dues and donating to KHA, you enable us to improve our community every day.
+      By contributing to KHA, you enable us to improve our community every day.
       <br />
       Here are just a few of the contributions KHA makes to our community:
     </p>

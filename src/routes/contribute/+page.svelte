@@ -9,7 +9,7 @@
 
   let isCheckingOut = false;
 
-  let paymentChoice = "dues";
+  let paymentChoice = "recommendedContribution";
   let donationAmount = "";
   let people: Person[];
   let address = "";
@@ -25,7 +25,7 @@
   const getPaypalToken = async () => {
     if (paypalTokenData === undefined) {
       paypalTokenData = null;
-      const res = await fetch("pay-dues/paypalData");
+      const res = await fetch("contribute/paypalData");
       if (!res.ok) {
         collectError(`Error fetching paypal token: ${await res.text()}`);
         showError = true;
@@ -68,18 +68,18 @@
 </script>
 
 <svelte:head>
-  <title>Pay Dues - KHA</title>
+  <title>Contribute - KHA</title>
   <meta
     name="description"
-    content="Pay your Kendale Homeowners Association dues and make additional contributions online via credit card, Paypal, or Venmo. Your generous contributions enable us to provide various benefits to our community." />
+    content="Contribute to Kendale Homeowners Association online via credit card, Paypal, or Venmo. Your generous contributions enable us to provide various benefits to our community." />
 </svelte:head>
 
-<h1 class="page-heading">Pay Dues</h1>
+<h1 class="page-heading">Contribute</h1>
 <section>
   <div style="margin-top: 2rem;" class="container">
     <p>
-      Below you will find several methods of paying your KHA dues and making additional contributions. Your generous contributions enable us to
-      provide our various benefits to the community!
+      Below you will find several methods of contributing to KHA. Your generous contributions enable us to provide our various benefits to the
+      community!
     </p>
   </div>
 </section>
@@ -120,7 +120,7 @@
             isCheckingOut = false;
           }}
           on:paymentOffline={(event) => handlePaymentOffline(event.detail)}
-          includesDues={paymentChoice === "dues"}
+          includesRecommendedContribution={paymentChoice === "recommendedContribution"}
           {paypalTokenData}
           {donationAmount} />
       </div>

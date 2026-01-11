@@ -18,8 +18,8 @@ test.describe("screenshots", () => {
   //   await page.goto("/events", { waitUntil: "networkidle" });
   //   await expect(page).toHaveScreenshot({ fullPage: true });
   // });
-  test("pay dues page screenshot", async ({ page }) => {
-    await page.goto("/pay-dues", { waitUntil: "networkidle" });
+  test("contribute page screenshot", async ({ page }) => {
+    await page.goto("/contribute", { waitUntil: "networkidle" });
     await expect(page).toHaveScreenshot({ fullPage: true });
   });
   test("stay connected page screenshot", async ({ page }) => {

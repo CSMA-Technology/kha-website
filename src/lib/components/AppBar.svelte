@@ -14,8 +14,8 @@
 
   let bannerAlertsDismissed: Set<string>;
   let showBanner = false;
-  const bannerText = `We rely on your support! To pay your 2026 dues, click <a href="/pay-dues">here.</a>`;
-  const bannerKey = "dues2026";
+  const bannerText = `We rely on your support! To contribute for 2026, click <a href="/contribute">here.</a>`;
+  const bannerKey = "contribution2026";
   const dismissedBannersId = "bannerAlertsDismissed";
   onMount(() => {
     bannerAlertsDismissed = new Set(JSON.parse(localStorage.getItem(dismissedBannersId) || "[]"));
@@ -50,7 +50,7 @@
         <a href="/events">Events</a>
       </li>
       <li>
-        <a href="/pay-dues">Pay Dues</a>
+        <a href="/contribute">Contribute</a>
       </li>
     </ul>
     <button

@@ -7,7 +7,7 @@
   import type { Person } from "./PaymentForm.svelte";
   import { collectError } from "$lib/utils";
 
-  export let includesDues: Boolean;
+  export let includesRecommendedContribution: Boolean;
   export let donationAmount: String;
   export let paypalTokenData: any;
   export let address: String;
@@ -37,7 +37,7 @@
               const res = await fetch("/api/payments/createOrder", {
                 method: "post",
                 body: JSON.stringify({
-                  includesDues,
+                  includesRecommendedContribution,
                   donationAmount,
                   description: getCompactDescription(),
                 }),
@@ -77,7 +77,7 @@
 
   const onBackPressed = () => dispatch("backPressed");
   const donation = Number(donationAmount);
-  const totalPayment = includesDues ? (60 + donation).toFixed(2) : donation.toFixed(2);
+  const totalPayment = includesRecommendedContribution ? (60 + donation).toFixed(2) : donation.toFixed(2);
 
   const getDescription = () => {
     const peopleInfo = people.map(({ email, name, phone }) => `${name} (${email},${phone})`).join(", ");
@@ -101,9 +101,9 @@
 <div>
   <button class="secondary-button" id="backBtn" on:click={onBackPressed}>&lt Back</button>
   <h3>Payment Confirmation</h3>
-  {#if includesDues}
+  {#if includesRecommendedContribution}
     <div class="inline-flex">
-      <p class="item">Dues:</p>
+      <p class="item">Recommended Contribution:</p>
       <p class="item">$60</p>
     </div>
   {/if}

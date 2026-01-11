@@ -22,15 +22,15 @@ export async function generateAccessToken() {
 
 // create an order
 export async function createOrder(
-  includesDues: boolean,
+  includesRecommendedContribution: boolean,
   donationAmount = 0,
-  description = "Annual dues and/or donation to Kendale Homeowners Association",
+  description = "Recommended contribution and/or donation to Kendale Homeowners Association",
 ) {
   console.log("Creating paypal order");
-  const duesAmount = includesDues ? "60.00" : "0"; // TODO: pull amount from a database or session
+  const recommendedContributionAmount = includesRecommendedContribution ? "60.00" : "0"; // TODO: pull amount from a database or session
   const accessToken = await generateAccessToken();
   const url = `${BASE_URL}/v2/checkout/orders`;
-  const orderTotal = Number(duesAmount) + donationAmount;
+  const orderTotal = Number(recommendedContributionAmount) + donationAmount;
   const order: CreateOrderRequestBody = {
     intent: "CAPTURE",
     application_context: {
@@ -50,14 +50,14 @@ export async function createOrder(
           },
         },
         description,
-        soft_descriptor: "KHA Dues/Donation",
+        soft_descriptor: "KHA Contribution",
         items: [
-          includesDues && {
-            name: "Annual Dues",
+          includesRecommendedContribution && {
+            name: "Recommended Contribution",
             quantity: "1",
             unit_amount: {
               currency_code: "USD",
-              value: duesAmount,
+              value: recommendedContributionAmount,
             },
             category: "DIGITAL_GOODS",
           },
