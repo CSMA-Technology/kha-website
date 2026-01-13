@@ -3,6 +3,9 @@ import type { UserConfig } from "vite";
 
 const config: UserConfig = {
   plugins: [sveltekit()],
+  ssr: {
+    noExternal: ["@paypal/paypal-js"],
+  },
 };
 
 export default config;

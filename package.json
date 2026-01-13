@@ -15,7 +15,7 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
-    "@paypal/paypal-js": "^8.0.0",
+    "@paypal/paypal-js": "^9.1.0",
     "@playwright/test": "^1.29.1",
     "@sveltejs/adapter-netlify": "^4.1.0",
     "@sveltejs/kit": "^2.5.0",

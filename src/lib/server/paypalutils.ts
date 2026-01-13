@@ -87,3 +87,19 @@ export async function createOrder(
   const data = await response.json();
   return data;
 }
+
+// capture an order
+export async function captureOrder(orderID: string) {
+  const accessToken = await generateAccessToken();
+  const url = `${BASE_URL}/v2/checkout/orders/${orderID}/capture`;
+  const response = await fetch(url, {
+    method: "post",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: `Bearer ${accessToken}`,
+    },
+  });
+  if (!response.ok) throw new Error(`Error from Paypal capture: ${response.status}: ${await response.text()}`);
+  const data = await response.json();
+  return data;
+}
