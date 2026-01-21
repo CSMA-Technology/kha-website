@@ -203,7 +203,7 @@
   <h3>Payment Confirmation</h3>
   {#if includesRecommendedContribution}
     <div class="inline-flex">
-      <p class="item">Recommended Contribution:</p>
+      <p class="item">Recommended Annual Contribution:</p>
       <p class="item">$60</p>
     </div>
   {/if}

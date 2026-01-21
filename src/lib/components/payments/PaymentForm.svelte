@@ -94,7 +94,7 @@
       <legend>Payment type:</legend>
       <label style={`margin-right: 1rem;`}>
         <input type="radio" bind:group={paymentChoice} value="recommendedContribution" />
-        Recommended Contribution
+        Recommended Annual Contribution
       </label>
       <label>
         <input type="radio" bind:group={paymentChoice} value="donation" />
@@ -104,10 +104,10 @@
   </div>
   {#if paymentChoice === "recommendedContribution"}
     <div transition:slide|local class="form-row">
-      <label class="form-inline-label" for="recommendedContributionInput">Recommended Contribution:</label>
+      <label class="form-inline-label" for="recommendedContributionInput">Recommended Annual Contribution:</label>
       <span class="form-currency-container">
         <input class="form-currency-input" id="recommendedContributionInput" value="60.00" disabled style="border: none" />
-        <input type="hidden" name="Recommended Contribution" value="60" />
+        <input type="hidden" name="Recommended Annual Contribution" value="60" />
       </span>
     </div>
   {/if}

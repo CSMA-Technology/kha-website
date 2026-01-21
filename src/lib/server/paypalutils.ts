@@ -53,7 +53,7 @@ export async function createOrder(
         soft_descriptor: "KHA Contribution",
         items: [
           includesRecommendedContribution && {
-            name: "Recommended Contribution",
+            name: "Recommended Annual Contribution",
             quantity: "1",
             unit_amount: {
               currency_code: "USD",
