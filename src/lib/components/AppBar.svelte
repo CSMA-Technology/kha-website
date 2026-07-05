@@ -14,10 +14,8 @@
 
   let bannerAlertsDismissed: Set<string>;
   let showBanner = false;
-  const bannerText = `<img width=32 src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/1f1fa-1f1f8.svg"/> Happy 4th of July! <img width=32 src="https://images.emojiterra.com/google/noto-emoji/unicode-17.0/color/svg/1f1fa-1f1f8.svg"/>`;
-  const bannerKey = "july42026";
-  // const bannerText = `We rely on your support! To contribute for 2026, click <a href="/contribute">here.</a>`;
-  // const bannerKey = "contribution2026";
+  const bannerText = `We rely on your support! To contribute for 2026, click <a href="/contribute">here.</a>`;
+  const bannerKey = "contribution2026";
   const dismissedBannersId = "bannerAlertsDismissed";
   onMount(() => {
     bannerAlertsDismissed = new Set(JSON.parse(localStorage.getItem(dismissedBannersId) || "[]"));
