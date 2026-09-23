@@ -11,6 +11,7 @@ import movieNight202511 from "$lib/assets/events/movie-night-2025-11.jpeg";
 import holidayGolfCartParade2025 from "$lib/assets/events/holiday-golf-cart-parade-2025.png";
 import holidayGolfCartParadeRoute2025 from "$lib/assets/events/holiday-golf-cart-parade-route-2025.jpeg";
 import communityFestival2026 from "$lib/assets/events/community-festival-2026.jpeg";
+import halloweenPartyFlyer2026 from "$lib/assets/events/2026-kha-hallowwen-party-flyer.png";
 
 export type Event = {
   name: string;
@@ -113,6 +114,15 @@ const events: Event[] = [
     location: "Kendale Park - 10300 SW 93 Street",
     photo: communityFestival2026,
     photoAlt: "A flyer for the community festival",
+  },
+  {
+    name: "Halloween Event & Golf Cart Parade",
+    description:
+      "Mark your calendars for this spooktacular event! Sunday, October 25th at Kendale Park starting at 4 pm. Come in your costume and join in all the fun! There will be a costume parade ( prizes for best costumes), food trucks, music and lots of fun! Our Annual Golf Cart Parade will begin at 7 pm around the Village.",
+    date: new Date("2026-10-25T16:00"),
+    location: "Kendale Park - 10300 SW 93 Street",
+    photo: halloweenPartyFlyer2026,
+    photoAlt: "A flyer for the 2026 Halloween event and golf cart parade",
   },
 ];
 
