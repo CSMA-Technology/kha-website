@@ -129,7 +129,7 @@ const events: Event[] = [
     name: "Movie Night",
     description:
       "Back by popular demand! Join your friends and neighbors at this community event! Come out with your blanket, chairs and snacks to enjoy this wonderful family movie. All are welcome!",
-    date: new Date("2026-11-13T10:00"),
+    date: new Date("2026-11-13T18:00"),
     location: "Kendale Park - 10300 SW 93 Street",
     photo: movieNightNov2026,
     photoAlt: "A flyer for the November 2026 Movie Night, which will show Toy Story 5",
