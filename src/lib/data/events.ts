@@ -13,6 +13,7 @@ import holidayGolfCartParadeRoute2025 from "$lib/assets/events/holiday-golf-cart
 import communityFestival2026 from "$lib/assets/events/community-festival-2026.jpeg";
 import halloweenPartyFlyer2026 from "$lib/assets/events/2026-kha-hallowwen-party-flyer.png";
 import movieNightNov2026 from "$lib/assets/events/movie-night-nov-2026.jpeg";
+import kendaleElementaryMeeting from "$lib/assets/events/kendale-elementary-meeting.jpeg";
 
 export type Event = {
   name: string;
@@ -133,6 +134,14 @@ const events: Event[] = [
     location: "Kendale Park - 10300 SW 93 Street",
     photo: movieNightNov2026,
     photoAlt: "A flyer for the November 2026 Movie Night, which will show Toy Story 5",
+  },
+  {
+    name: "Kendale Elementary Attendance Boundary Committee Meeting",
+    description: "Please join us for an informational meeting regarding the attendance boundary process.",
+    date: new Date("2026-11-16T18:00"),
+    location: "Kendale Elementary Cafeteria",
+    photo: kendaleElementaryMeeting,
+    photoAlt: "A flyer for the Kendale Elementary meeting",
   },
 ];
 
